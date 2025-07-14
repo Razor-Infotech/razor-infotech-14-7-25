@@ -863,7 +863,7 @@
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
                                 <a href="./blogs/difference-between-call-center-and-bpo">
-                                    <img src="./assets/img/blog/blog-1.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
+                                    <img src="./assets/img/blog/blog-7.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
                             <div class="date">
