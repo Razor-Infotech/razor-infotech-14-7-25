@@ -1,0 +1,31 @@
+name: CI – Test & Build PHP site
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4 # pulls your code
+      - name: Set up PHP 8.3
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: "8.3"
+          extensions: mbstring, intl, pdo_mysql
+          tools: composer:v2, phpunit
+      - name: Install dependencies
+        run: composer install --no-interaction --prefer-dist --optimize-autoloader
+      - name: Run PHPUnit
+        run: vendor/bin/phpunit --testdox
+      - name: Static Analysis
+        run: vendor/bin/phpstan analyse
+    # If you generate assets:
+    # - name: NPM build
+    #   run: |
+    #     npm ci
+    #     npm run build
+    #
+    # Optional: commit build to a separate branch that Hostinger pulls
+    #   and push, or just let Hostinger pull main and run composer itself.
