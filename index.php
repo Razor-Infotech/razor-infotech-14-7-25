@@ -596,7 +596,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             ["name" => "Nitish Kumar", "review" => "I had the privilege of engaging with Razor Infotech for their exceptional IT services. Their highly skilled team demonstrated professionalism and a commitment to customer satisfaction."],
                             ["name" => "Kyser Shah", "review" => "I was thoroughly impressed with Razor Info Tech's commitment to excellence and positive candidate experience. If you're looking for professionalism and transparency, I highly recommend them."]
                         ];
-
+//hello
                         // Loop through testimonials to generate dynamic HTML
                         foreach ($testimonials as $testimonial) {
                             echo '<div class="slider-item">
