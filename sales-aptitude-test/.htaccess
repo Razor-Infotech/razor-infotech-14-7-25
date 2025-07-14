@@ -1,0 +1,11 @@
+RewriteEngine On
+
+# Remove .html extension from URLs
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html [L]
+
+# Handle other extensions if necessary
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.(php|htm|html|js|css|jpg|jpeg|png|gif|bmp|txt|xml|pdf) -f
+RewriteRule ^(.*)$ $1.$2 [L]

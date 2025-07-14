@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Data Fetch Example</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+</head>
+
+<body>
+    <div class="container mt-5">
+        <h2>Quiz Data</h2>
+        <div class="table-responsive">
+            <table class="table table-bordered">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>#</th>
+                        <th>Name</th>
+                        <th>Score</th>
+                        <th>Email</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            fetch('https://api.razorinfotech.com/api/v1/quiz/getquiz')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    // Check if the API response contains the expected data structure
+                    if (!data.quizzes || !Array.isArray(data.quizzes)) {
+                        throw new Error('Invalid API response');
+                    }
+
+                    // Process the fetched data
+                    const quizData = data.quizzes;
+
+                    // Extract the name, email, and score from each item
+                    const items = [];
+                    quizData.forEach(item => {
+                        items.push({
+                            name: item.name,
+                            email: item.email,
+                            score: item.score
+                        });
+                    });
+
+                    // Display the items in the table
+                    displayItems(items);
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });
+
+            function displayItems(items) {
+                const tableBody = document.querySelector('tbody');
+
+                items.forEach((item, index) => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                <td>${index + 1}</td>
+                <td>${item.name}</td>
+                <td>${item.score}</td>
+                <td>${item.email}</td>
+              `;
+                    tableBody.appendChild(row);
+                });
+            }
+        });
+    </script>
+</body>
+
+</html>

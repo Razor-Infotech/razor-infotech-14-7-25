@@ -1,0 +1,69 @@
+
+
+<IfModule mod_headers.c>
+  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+</IfModule>
+
+
+
+  <IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # ---------------------------------------
+  # 1) Define the custom 404 error page
+  # ---------------------------------------
+  ErrorDocument 404 /404.php
+
+  # ----------------------------------------------------------
+  # 2) Redirect ".php" URLs to extension-less URLs (excluding enquiry.php and career-form-submit.php)
+  # ----------------------------------------------------------
+  RewriteCond %{THE_REQUEST} \s/+(.*?/)?([^/]+)\.php[\s?/] [NC]
+  RewriteCond %2 !^(enquiry|career-form-submit)$ [NC] 
+  RewriteRule ^ /%1%2 [R=301,L]
+
+  # -------------------------------------------------------------------
+  # 3) Internally rewrite URLs without ".php" extension to .php files
+  # -------------------------------------------------------------------
+  RewriteCond %{REQUEST_FILENAME}.php -f
+  RewriteRule ^(.+?)/?$ $1.php [L]
+
+  # -------------------------------------------------
+  # 4) Allow access to existing files/directories
+  # -------------------------------------------------
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+  
+  # 5) If the request contains HTML tags in the URL (encoded or not), redirect to the 404 page
+  # -------------------------------------------
+  RewriteCond %{REQUEST_URI} [<>%3C%3E%22] [NC]  
+  RewriteRule ^ https://razorinfotech.com/404 [L]
+
+  # -------------------------------------------------
+  # 5) If no file/directory match, trigger 404
+  # -------------------------------------------------
+  RewriteRule .* - [R=404,L]
+
+# RewriteEngine On
+# RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+# RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+
+
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Rewrite /blogs/slug to /blogs/slug.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^blogs/([a-zA-Z0-9-]+)/?$ blogs/$1.php [L]
+
+
+  
+</IfModule>
+
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.(ttf|ttc|otf|eot|woff|woff2|font.css|css)$">
+    Header set Access-Control-Allow-Origin "*"
+  </FilesMatch>
+</IfModule>
