@@ -339,7 +339,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./blogs/bpo-customer-services">
+                                <a href="./bpo-customer-services">
                                     <img src="./assets/img/blog/business-process-outsourcing-customer-services.png" class="img-fluid" alt="Business Process Outsourcing Customer Services" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -352,13 +352,13 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/bpo-customer-services">BPO Services</a>
+                                <a href="./bpo-customer-services">BPO Services</a>
                             </div>
 
-                            <h4><a href="./blogs/bpo-customer-services">Significance of Business Process Outsourcing Customer Service In Today's World</a></h4>
+                            <h4><a href="./bpo-customer-services">Significance of Business Process Outsourcing Customer Service In Today's World</a></h4>
 
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./blogs/bpo-customer-services" class="theme-btn btn-border">Read More</a>
+                                <a href="./bpo-customer-services" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -367,7 +367,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./blogs/benefits-of-outsourcing-data-entry-services">
+                                <a href="./benefits-of-outsourcing-data-entry-services">
                                     <img src="./assets/img/blog/outsourcing-data-entry-services.png" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -380,13 +380,13 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/benefits-of-outsourcing-data-entry-services">Outsourcing Data Entry Services</a>
+                                <a href="./benefits-of-outsourcing-data-entry-services">Outsourcing Data Entry Services</a>
                             </div>
 
-                            <h4><a href="./blogs/benefits-of-outsourcing-data-entry-services">Benefits of Outsourcing Data Entry Services</a></h4>
+                            <h4><a href="./benefits-of-outsourcing-data-entry-services">Benefits of Outsourcing Data Entry Services</a></h4>
 
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./blogs/benefits-of-outsourcing-data-entry-services" class="theme-btn btn-border">Read More</a>
+                                <a href="./benefits-of-outsourcing-data-entry-services" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -395,7 +395,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./blogs/bpo-customer-services-interview-question-and-answer">
+                                <a href="./bpo-customer-services-interview-question-and-answer">
                                     <img src="./assets/img/blog/bpo-customer-services-interviews.png" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -408,13 +408,13 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/bpo-customer-services-interview-question-and-answer">BPO Customer Services</a>
+                                <a href="./bpo-customer-services-interview-question-and-answer">BPO Customer Services</a>
                             </div>
 
-                            <h4><a href="./blogs/bpo-customer-services-interview-question-and-answer">BPO Customer Services Interview Question and Answer</a></h4>
+                            <h4><a href="./bpo-customer-services-interview-question-and-answer">BPO Customer Services Interview Question and Answer</a></h4>
 
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./blogs/bpo-customer-services-interview-question-and-answer" class="theme-btn btn-border">Read More</a>
+                                <a href="./bpo-customer-services-interview-question-and-answer" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -423,7 +423,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./blogs/voice-vs-non-voice-process">
+                                <a href="./voice-vs-non-voice-process">
                                     <img src="./assets/img/blog/voice-non-voice.png" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -436,11 +436,11 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/voice-vs-non-voice-process">Voice and Non-Voice Process</a>
+                                <a href="./voice-vs-non-voice-process">Voice and Non-Voice Process</a>
                             </div>
-                            <h4><a href="./blogs/voice-vs-non-voice-process">Voice vs Non-Voice Process: Which One Is Suitable For You</a></h4>
+                            <h4><a href="./voice-vs-non-voice-process">Voice vs Non-Voice Process: Which One Is Suitable For You</a></h4>
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./blogs/voice-vs-non-voice-process" class="theme-btn btn-border">Read More</a>
+                                <a href="./voice-vs-non-voice-process" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -449,7 +449,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./blogs/blogs/are-inbound-call-center-services-good-for-business-growth">
+                                <a href="./are-inbound-call-center-services-good-for-business-growth">
                                     <img src="./assets/img/blog/inbound-call-center.png" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -462,13 +462,13 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/are-inbound-call-center-services-good-for-business-growth">Inbound Call Center Services Good For Business Growth</a>
+                                <a href="./are-inbound-call-center-services-good-for-business-growth">Inbound Call Center Services Good For Business Growth</a>
                             </div>
 
-                            <h4><a href="./blogs/are-inbound-call-center-services-good-for-business-growth">Inbound Call Center Services Good For Business Growth</a></h4>
+                            <h4><a href="./are-inbound-call-center-services-good-for-business-growth">Inbound Call Center Services Good For Business Growth</a></h4>
 
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./blogs/are-inbound-call-center-services-good-for-business-growth" class="theme-btn btn-border">Read More</a>
+                                <a href="./are-inbound-call-center-services-good-for-business-growth" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -478,7 +478,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./blogs/what-is-bpo-service">
+                                <a href="./what-is-bpo-service">
                                     <img src="./assets/img/blog/bpo-services.png" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -491,11 +491,11 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/what-is-bpo-service">What is BPO Service</a>
+                                <a href="./what-is-bpo-service">What is BPO Service</a>
                             </div>
-                            <h4><a href="./blogs/what-is-bpo-service">What is BPO Service: Types, Benefits & How Does it Work</a></h4>
+                            <h4><a href="./what-is-bpo-service">What is BPO Service: Types, Benefits & How Does it Work</a></h4>
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./blogs/what-is-bpo-service" class="theme-btn btn-border">Read More</a>
+                                <a href="./what-is-bpo-service" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -505,7 +505,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./blogs/how-phone-call-answering-services-improve-customer-experience">
+                                <a href="./how-phone-call-answering-services-improve-customer-experience">
                                     <img src="./assets/img/blog/phone-call-answering-services.png" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -518,13 +518,13 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/how-phone-call-answering-services-improve-customer-experience">How Phone Call Answering Services Improve Customer Experience</a>
+                                <a href="./how-phone-call-answering-services-improve-customer-experience">How Phone Call Answering Services Improve Customer Experience</a>
                             </div>
 
-                            <h4><a href="./blogs/how-phone-call-answering-services-improve-customer-experience">How Phone Call Answering Services Improve Customer Experience</a></h4>
+                            <h4><a href="./how-phone-call-answering-services-improve-customer-experience">How Phone Call Answering Services Improve Customer Experience</a></h4>
 
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./blogs/how-phone-call-answering-services-improve-customer-experience" class="theme-btn btn-border">Read More</a>
+                                <a href="./how-phone-call-answering-services-improve-customer-experience" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -534,7 +534,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./blogs/why-call-center-services-in-india-are-in-high-demand">
+                                <a href="./why-call-center-services-in-india-are-in-high-demand">
                                     <img src="./assets/img/blog/call-center-services-in-india.png" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -547,13 +547,13 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/why-call-center-services-in-india-are-in-high-demand">Why Call Center Services in India are in High Demand?</a>
+                                <a href="./why-call-center-services-in-india-are-in-high-demand">Why Call Center Services in India are in High Demand?</a>
                             </div>
 
-                            <h4><a href="./blogs/why-call-center-services-in-india-are-in-high-demand">Why Call Center Services in India are in High Demand?</a></h4>
+                            <h4><a href="./why-call-center-services-in-india-are-in-high-demand">Why Call Center Services in India are in High Demand?</a></h4>
 
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./blogs/why-call-center-services-in-india-are-in-high-demand" class="theme-btn btn-border">Read More</a>
+                                <a href="./why-call-center-services-in-india-are-in-high-demand" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -563,7 +563,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./blogs/cloud-computing-services-is-this-the-new-bpo-style">
+                                <a href="./cloud-computing-services-is-this-the-new-bpo-style">
                                     <img src="./assets/img/blog/cloud-computing-services.png" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -576,13 +576,13 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/cloud-computing-services-is-this-the-new-bpo-style">Cloud Computing Services is this The New BPO Style</a>
+                                <a href="./cloud-computing-services-is-this-the-new-bpo-style">Cloud Computing Services is this The New BPO Style</a>
                             </div>
 
-                            <h4><a href="./blogs/cloud-computing-services-is-this-the-new-bpo-style">Cloud Computing Services is this The New BPO Style</a></h4>
+                            <h4><a href="./cloud-computing-services-is-this-the-new-bpo-style">Cloud Computing Services is this The New BPO Style</a></h4>
 
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./blogs/cloud-computing-services-is-this-the-new-bpo-style" class="theme-btn btn-border">Read More</a>
+                                <a href="./cloud-computing-services-is-this-the-new-bpo-style" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -592,7 +592,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./blogs/what-is-customer-care">
+                                <a href="./what-is-customer-care">
                                     <img src="./assets/img/blog/customer-care.png" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -605,11 +605,11 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/what-is-customer-care">What is Customer Care</a>
+                                <a href="./what-is-customer-care">What is Customer Care</a>
                             </div>
-                            <h4><a href="./blogs/what-is-customer-care">What is Customer Care</a></h4>
+                            <h4><a href="./what-is-customer-care">What is Customer Care</a></h4>
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./blogs/what-is-customer-care" class="theme-btn btn-border">Read More</a>
+                                <a href="./what-is-customer-care" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -619,7 +619,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./blogs/best-bpo-service-companies-in-noida">
+                                <a href="./best-bpo-service-companies-in-noida">
                                     <img src="./assets/img/blog/best-bpo-services.png" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -632,11 +632,11 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/best-bpo-service-companies-in-noida">Best BPO Service Companies In Noida</a>
+                                <a href="./best-bpo-service-companies-in-noida">Best BPO Service Companies In Noida</a>
                             </div>
-                            <h4><a href="./blogs/best-bpo-service-companies-in-noida">List Of The Best BPO Service Companies In Noida</a></h4>
+                            <h4><a href="./best-bpo-service-companies-in-noida">List Of The Best BPO Service Companies In Noida</a></h4>
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./blogs/best-bpo-service-companies-in-noida" class="theme-btn btn-border">Read More</a>
+                                <a href="./best-bpo-service-companies-in-noida" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -646,7 +646,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./blogs/top-business-process-outsourcing-trends">
+                                <a href="./top-business-process-outsourcing-trends">
                                     <img src="./assets/img/blog/business-process-outsourcing-trends.png" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -659,11 +659,11 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/top-business-process-outsourcing-trends">Business Outsourcing Trends</a>
+                                <a href="./top-business-process-outsourcing-trends">Business Outsourcing Trends</a>
                             </div>
-                            <h4><a href="./blogs/top-business-process-outsourcing-trends">Top Business Process Outsourcing Trends</a></h4>
+                            <h4><a href="./top-business-process-outsourcing-trends">Top Business Process Outsourcing Trends</a></h4>
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./blogs/top-business-process-outsourcing-trends" class="theme-btn btn-border">Read More</a>
+                                <a href="./top-business-process-outsourcing-trends" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -673,7 +673,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./blogs/bpo-customer-service-in-noida">
+                                <a href="./bpo-customer-service-in-noida">
                                     <img src="./assets/img/blog/bpo-customer-services-in-noida.png" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -686,11 +686,11 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/bpo-customer-service-in-noida">BPO Customer Service</a>
+                                <a href="./bpo-customer-service-in-noida">BPO Customer Service</a>
                             </div>
-                            <h4><a href="./blogs/bpo-customer-service-in-noida">Which BPO Customer Service in Noida is Best to Choose</a></h4>
+                            <h4><a href="./bpo-customer-service-in-noida">Which BPO Customer Service in Noida is Best to Choose</a></h4>
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./blogs/bpo-customer-service-in-noida" class="theme-btn btn-border">Read More</a>
+                                <a href="./bpo-customer-service-in-noida" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -700,7 +700,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./blogs/what-is-bpo-job">
+                                <a href="./what-is-bpo-job">
                                     <img src="./assets/img/blog/business-process-outsourcing.png" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -713,11 +713,11 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/what-is-bpo-job">Business Process Outsourcing(BPO)</a>
+                                <a href="./what-is-bpo-job">Business Process Outsourcing(BPO)</a>
                             </div>
-                            <h4><a href="./blogs/what-is-bpo-job">What is Business Process Outsourcing (BPO) Job & its Types</a></h4>
+                            <h4><a href="./what-is-bpo-job">What is Business Process Outsourcing (BPO) Job & its Types</a></h4>
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./blogs/what-is-bpo-job" class="theme-btn btn-border">Read More</a>
+                                <a href="./what-is-bpo-job" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -727,7 +727,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./blogs/why-call-center-services-are-the-smart-choice-for-business">
+                                <a href="./why-call-center-services-are-the-smart-choice-for-business">
                                     <img src="./assets/img/Customer-Service-Call-Center.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -740,11 +740,11 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/why-call-center-services-are-the-smart-choice-for-business">Call Center Services</a>
+                                <a href="./why-call-center-services-are-the-smart-choice-for-business">Call Center Services</a>
                             </div>
-                            <h4><a href="./blogs/why-call-center-services-are-the-smart-choice-for-business">Why Call Center Services Are the Smart Choice for Business</a></h4>
+                            <h4><a href="./why-call-center-services-are-the-smart-choice-for-business">Why Call Center Services Are the Smart Choice for Business</a></h4>
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./blogs/why-call-center-services-are-the-smart-choice-for-business" class="theme-btn btn-border">Read More</a>
+                                <a href="./why-call-center-services-are-the-smart-choice-for-business" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -754,7 +754,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./blogs/what-are-bpo-job-and-their-functions">
+                                <a href="./what-are-bpo-job-and-their-functions">
                                     <img src="./assets/img/blog/blog-10.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -767,11 +767,11 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/what-are-bpo-job-and-their-functions">BPO Services</a>
+                                <a href="./what-are-bpo-job-and-their-functions">BPO Services</a>
                             </div>
-                            <h4><a href="./blogs/what-are-bpo-job-and-their-functions">What are BPO Jobs & their Functions? A Guide to Business Process Jobs for Freshers</a></h4>
+                            <h4><a href="./what-are-bpo-job-and-their-functions">What are BPO Jobs & their Functions? A Guide to Business Process Jobs for Freshers</a></h4>
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./blogs/what-are-bpo-job-and-their-functions" class="theme-btn btn-border">Read More</a>
+                                <a href="./what-are-bpo-job-and-their-functions" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -781,7 +781,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./blogs/what-is-customer-services-in-bpo">
+                                <a href="./what-is-customer-services-in-bpo">
                                     <img src="./assets/img/customer-care-services.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -794,11 +794,11 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/what-is-customer-services-in-bpo">Customer Services</a>
+                                <a href="./what-is-customer-services-in-bpo">Customer Services</a>
                             </div>
-                            <h4><a href="./blogs/what-is-customer-services-in-bpo">What is Customer Service in BPO? Its Benefits & Limitations</a></h4>
+                            <h4><a href="./what-is-customer-services-in-bpo">What is Customer Service in BPO? Its Benefits & Limitations</a></h4>
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./blogs/what-is-customer-services-in-bpo" class="theme-btn btn-border">Read More</a>
+                                <a href="./what-is-customer-services-in-bpo" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -808,7 +808,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./blogs/difference-between-web-development-and-web-design">
+                                <a href="./difference-between-web-development-and-web-design">
                                     <img src="./assets/img/blog/blog-13.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -821,11 +821,11 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/difference-between-web-development-and-web-design">Web Development</a>
+                                <a href="./difference-between-web-development-and-web-design">Web Development</a>
                             </div>
-                            <h4><a href="./blogs/difference-between-web-development-and-web-design">Difference Between Web Development and Web Design</a></h4>
+                            <h4><a href="./difference-between-web-development-and-web-design">Difference Between Web Development and Web Design</a></h4>
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./blogs/difference-between-web-development-and-web-design" class="theme-btn btn-border">Read More</a>
+                                <a href="./difference-between-web-development-and-web-design" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -835,7 +835,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./blogs/customer-support-vs-customer-services">
+                                <a href="./customer-support-vs-customer-services">
                                     <img src="./assets/img/guide-bpo-service.jpg" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -848,11 +848,11 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/customer-support-vs-customer-services">Customer Services</a>
+                                <a href="./customer-support-vs-customer-services">Customer Services</a>
                             </div>
-                            <h4><a href="./blogs/customer-support-vs-customer-services">Customer Support Vs Customer Service: What's Different</a></h4>
+                            <h4><a href="./customer-support-vs-customer-services">Customer Support Vs Customer Service: What's Different</a></h4>
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./blogs/customer-support-vs-customer-services" class="theme-btn btn-border">Read More</a>
+                                <a href="./customer-support-vs-customer-services" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -862,7 +862,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./blogs/difference-between-call-center-and-bpo">
+                                <a href="./difference-between-call-center-and-bpo">
                                     <img src="./assets/img/blog/blog-7.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -875,11 +875,11 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/difference-between-call-center-and-bpo">BPO Services</a>
+                                <a href="./difference-between-call-center-and-bpo">BPO Services</a>
                             </div>
-                            <h4><a href="./blogs/difference-between-call-center-and-bpo">Difference Between A Call Center and A BPO</a></h4>
+                            <h4><a href="./difference-between-call-center-and-bpo">Difference Between A Call Center and A BPO</a></h4>
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./blogs/difference-between-call-center-and-bpo" class="theme-btn btn-border">Read More</a>
+                                <a href="./difference-between-call-center-and-bpo" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -889,7 +889,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./blogs/why-is-marketing-and-branding-important-for-business">
+                                <a href="./why-is-marketing-and-branding-important-for-business">
                                     <img src="./assets/img/blog/blog-3.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -902,11 +902,11 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/why-is-marketing-and-branding-important-for-business">Marketing and Branding </a>
+                                <a href="./why-is-marketing-and-branding-important-for-business">Marketing and Branding </a>
                             </div>
-                            <h4><a href="./blogs/why-is-marketing-and-branding-important-for-business">Why is Marketing and Branding Important for Business?</a></h4>
+                            <h4><a href="./why-is-marketing-and-branding-important-for-business">Why is Marketing and Branding Important for Business?</a></h4>
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./blogs/why-is-marketing-and-branding-important-for-business" class="theme-btn btn-border">Read More</a>
+                                <a href="./why-is-marketing-and-branding-important-for-business" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>

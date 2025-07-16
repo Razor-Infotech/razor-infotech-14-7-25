@@ -54,8 +54,8 @@ RewriteCond %{HTTPS} off
 RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 # Rewrite /blogs/slug to /blogs/slug.php
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^blogs/([a-zA-Z0-9-]+)/?$ blogs/$1.php [L]
+# RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteRule ^blogs/([a-zA-Z0-9-]+)/?$ blogs/$1.php [L]
 
 
   
