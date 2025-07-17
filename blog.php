@@ -808,7 +808,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./difference-between-web-development-and-web-design">
+                                <a href="./blogs/difference-between-web-development-and-web-design">
                                     <img src="./assets/img/blog/blog-13.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -821,11 +821,11 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./difference-between-web-development-and-web-design">Web Development</a>
+                                <a href="./blogs/difference-between-web-development-and-web-design">Web Development</a>
                             </div>
-                            <h4><a href="./difference-between-web-development-and-web-design">Difference Between Web Development and Web Design</a></h4>
+                            <h4><a href="./blogs/difference-between-web-development-and-web-design">Difference Between Web Development and Web Design</a></h4>
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./difference-between-web-development-and-web-design" class="theme-btn btn-border">Read More</a>
+                                <a href="./blogs/difference-between-web-development-and-web-design" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -835,7 +835,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./customer-support-vs-customer-services">
+                                <a href="./blogs/customer-support-vs-customer-services">
                                     <img src="./assets/img/guide-bpo-service.jpg" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -848,11 +848,11 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./customer-support-vs-customer-services">Customer Services</a>
+                                <a href="./blogs/customer-support-vs-customer-services">Customer Services</a>
                             </div>
-                            <h4><a href="./customer-support-vs-customer-services">Customer Support Vs Customer Service: What's Different</a></h4>
+                            <h4><a href="./blogs/customer-support-vs-customer-services">Customer Support Vs Customer Service: What's Different</a></h4>
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./customer-support-vs-customer-services" class="theme-btn btn-border">Read More</a>
+                                <a href="./blogs/customer-support-vs-customer-services" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -862,7 +862,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./difference-between-call-center-and-bpo">
+                                <a href="./blogs/difference-between-call-center-and-bpo">
                                     <img src="./assets/img/blog/blog-7.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -875,11 +875,11 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./difference-between-call-center-and-bpo">BPO Services</a>
+                                <a href="./blogs/difference-between-call-center-and-bpo">BPO Services</a>
                             </div>
-                            <h4><a href="./difference-between-call-center-and-bpo">Difference Between A Call Center and A BPO</a></h4>
+                            <h4><a href="./blogs/difference-between-call-center-and-bpo">Difference Between A Call Center and A BPO</a></h4>
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./difference-between-call-center-and-bpo" class="theme-btn btn-border">Read More</a>
+                                <a href="./blogs/difference-between-call-center-and-bpo" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
@@ -889,7 +889,7 @@
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
-                                <a href="./why-is-marketing-and-branding-important-for-business">
+                                <a href="./blogs/why-is-marketing-and-branding-important-for-business">
                                     <img src="./assets/img/blog/blog-3.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
@@ -902,11 +902,11 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./why-is-marketing-and-branding-important-for-business">Marketing and Branding </a>
+                                <a href="./blogs/why-is-marketing-and-branding-important-for-business">Marketing and Branding </a>
                             </div>
-                            <h4><a href="./why-is-marketing-and-branding-important-for-business">Why is Marketing and Branding Important for Business?</a></h4>
+                            <h4><a href="./blogs/why-is-marketing-and-branding-important-for-business">Why is Marketing and Branding Important for Business?</a></h4>
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
-                                <a href="./why-is-marketing-and-branding-important-for-business" class="theme-btn btn-border">Read More</a>
+                                <a href="./blogs/why-is-marketing-and-branding-important-for-business" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>
