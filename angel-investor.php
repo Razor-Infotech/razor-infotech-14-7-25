@@ -705,6 +705,9 @@ $Data = [
     <script src="assets/js/active.js"></script>
     <script src="assets/js/main.js"></script>
     <script src="assets/js/angle-investor.js"></script>
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4398104000588625"
+     crossorigin="anonymous"></script>
 </div>
 
 </html>
