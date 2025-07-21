@@ -10,7 +10,7 @@
      <!-- ------------------------- meta tags ----------------------------- -->
     
     <title>Why is Website Development important for every business</title>
-    <meta name="description" content="Why is Website Development important for every business" />
+    <meta name="description" content="A responsive website design not only gives a seamless experience on all devices, but it has also become an important part of website design & development. This makes your website look good on every device and improves the user experience." />
     <meta name="keywords" content="Inbound Services, Outbound Services, Customer Support, Customer Service, BPO Services" />
     <meta name="robots" content="default,follow" />
     <meta name="distribution" content="Global" />
@@ -23,7 +23,7 @@
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="BPO Service Provider Company" />
     <meta property="og:title" content="Why is Website Development important for every business" />
-    <meta property="og:description" content="Why is Website Development important for every business " />
+    <meta property="og:description" content="A responsive website design not only gives a seamless experience on all devices, but it has also become an important part of website design & development. This makes your website look good on every device and improves the user experience. " />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
     <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
     <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
