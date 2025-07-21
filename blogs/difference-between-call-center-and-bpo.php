@@ -28,7 +28,7 @@
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/">
+    <link rel="canonical" href="https://razorinfotech.com/difference-between-call-center-and-bpo">
     <!-- ===========  All Stylesheet ================= -->
     <link rel="stylesheet" href=".././assets/css/icons.css">
     <link rel="stylesheet" href=".././assets/css/magnific-popup.css">
@@ -565,7 +565,7 @@
                     <div class="main-sidebar" data-sticky_column>
                         <div class="single-sidebar-widget mb-40 pt-30 pr-30 pb-40 pl-30 pl-xs-20 pr-xs-20">
                             <h4 class="wid-title mb-3 mb-xs-20 color-d_black text-capitalize">
-                                IT Solution Services
+                               BPO Services
                             </h4>
 
                             <div class="widget_categories">

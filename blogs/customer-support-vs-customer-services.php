@@ -30,7 +30,7 @@
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/bpo-customer-services">
+    <link rel="canonical" href="https://razorinfotech.com/customer-support-vs-customer-services">
     <!-- ===========  All Stylesheet ================= -->
 
     <link rel="stylesheet" href=".././assets/css/icons.css">

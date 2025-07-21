@@ -29,7 +29,7 @@
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/">
+    <link rel="canonical" href="https://razorinfotech.com/why-is-marketing-and-branding-important-for-business">
     <!-- ===========  All Stylesheet ================= -->
     <link rel="stylesheet" href=".././assets/css/icons.css">
     <link rel="stylesheet" href=".././assets/css/magnific-popup.css">

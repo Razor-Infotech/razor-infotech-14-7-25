@@ -966,6 +966,87 @@
                     </div>
                 </div>
 
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="blog-item mb-30">
+                        <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
+                            <div class="media overflow-hidden">
+                                <a href="./blogs/difference-between-bpo-and-kpo">
+                                    <img src="./assets/img/blog/blog-1.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="date">
+                                <span>19</span>
+                                <span>July</span>
+                                <span>2025</span>
+                            </div>
+                        </div>
+
+                        <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
+                            <div class="post-author mb-2">
+                                <a href="./blogs/difference-between-bpo-and-kpo">BPO Services </a>
+                            </div>
+                            <h4><a href="./blogs/difference-between-bpo-and-kpo">Difference Between BPO and KPO</a></h4>
+                            <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
+                                <a href="./blogs/difference-between-bpo-and-kpo" class="theme-btn btn-border">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="blog-item mb-30">
+                        <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
+                            <div class="media overflow-hidden">
+                                <a href="./blogs/why-is-website-development-important-for-every-business">
+                                    <img src="./assets/img/blog/blog-4.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="date">
+                                <span>21</span>
+                                <span>July</span>
+                                <span>2025</span>
+                            </div>
+                        </div>
+
+                        <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
+                            <div class="post-author mb-2">
+                                <a href="./blogs/why-is-website-development-important-for-every-business">IT Solution Services </a>
+                            </div>
+                            <h4><a href="./blogs/why-is-website-development-important-for-every-business">Why is website development important for every business?</a></h4>
+                            <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
+                                <a href="./blogs/why-is-website-development-important-for-every-business" class="theme-btn btn-border">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="blog-item mb-30">
+                        <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
+                            <div class="media overflow-hidden">
+                                <a href="./blogs/10-best-outsourcing-companies-in-india">
+                                    <img src="./assets/img/blog/blog-5.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="date">
+                                <span>22</span>
+                                <span>July</span>
+                                <span>2025</span>
+                            </div>
+                        </div>
+
+                        <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
+                            <div class="post-author mb-2">
+                                <a href="./blogs/10-best-outsourcing-companies-in-india">BPO Services </a>
+                            </div>
+                            <h4><a href="./blogs/10-best-outsourcing-companies-in-india">10 Best Outsourcing Companies in India</a></h4>
+                            <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
+                                <a href="./blogs/10-best-outsourcing-companies-in-india" class="theme-btn btn-border">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </section>
