@@ -1074,6 +1074,60 @@
                     </div>
                 </div>
 
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="blog-item mb-30">
+                        <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
+                            <div class="media overflow-hidden">
+                                <a href="./blogs/why-bpo-outsourcing-companies-in-india-gaining-global-attention">
+                                    <img src="./assets/img/blog/blog-11.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="date">
+                                <span>24</span>
+                                <span>July</span>
+                                <span>2025</span>
+                            </div>
+                        </div>
+
+                        <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
+                            <div class="post-author mb-2">
+                                <a href="./blogs/why-bpo-outsourcing-companies-in-india-gaining-global-attention">BPO Outsourcing Companies </a>
+                            </div>
+                            <h4><a href="./blogs/why-bpo-outsourcing-companies-in-india-gaining-global-attention">Why BPO Outsourcing Companies in India Gaining Global Attention</a></h4>
+                            <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
+                                <a href="./blogs/why-bpo-outsourcing-companies-in-india-gaining-global-attention" class="theme-btn btn-border">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="blog-item mb-30">
+                        <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
+                            <div class="media overflow-hidden">
+                                <a href="./blogs/best-call-center-in-india-for-reliable-customer-support">
+                                    <img src="./assets/img/blog/blog-6.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="date">
+                                <span>25</span>
+                                <span>July</span>
+                                <span>2025</span>
+                            </div>
+                        </div>
+
+                        <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
+                            <div class="post-author mb-2">
+                                <a href="./blogs/best-call-center-in-india-for-reliable-customer-support">BPO Outsourcing Companies </a>
+                            </div>
+                            <h4><a href="./blogs/best-call-center-in-india-for-reliable-customer-support">Best Call Center in India for Reliable Customer Support</a></h4>
+                            <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
+                                <a href="./blogs/best-call-center-in-india-for-reliable-customer-support" class="theme-btn btn-border">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </section>
