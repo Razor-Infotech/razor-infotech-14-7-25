@@ -25,12 +25,12 @@
     <meta property="og:title" content="AI in BPO Services Reshapes the Future of Outsourcing in 2025" />
     <meta property="og:description" content="AI in BPO Services Reshapes the Future of Outsourcing in 2025 " />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/ai-bpo-services">
+    <link rel="canonical" href="https://razorinfotech.com/blogs/ai-bpo-services">
     <!-- ===========  All Stylesheet ================= -->
 
     <link rel="stylesheet" href=".././assets/css/icons.css">
@@ -323,7 +323,7 @@
                             <li><a href="../legal-compliance">Legal & Compliance (LPO)</a></li>
                             <li><a href="../financial-service">Financial Services (FPO)</a></li>
                             <li><a href="../business-consultancy">Business consultancy</a></li>
-                            <li><a href="../angle-investor">Angel Investors</a></li>
+                            <li><a href="../angel-investor">Angel Investors</a></li>
                         </ul>
                     </li>
                     <li><a href="../blog" style="font-weight: 600;">Blogs</a></li>
@@ -379,7 +379,7 @@
                     </div>
 
                     <div class="services-details__content">
-                        <h1>How AI in BPO Services Reshapes the Future of Outsourcing in 2025</h1>
+                        <h1 style="display: none;">How AI in BPO Services Reshapes the Future of Outsourcing in 2025</h1>
                         <p>Artificial Intelligence (AI) is significantly reshaping the world around us, including the <strong><a href="../bpo-services">BPO</a></strong> sector. This evolution of the industry is not only a trend but a strategic necessity for innovative service delivery and strategic value creation. Artificial intelligence is assisting the outsourcing service industry in transforming into a much faster, smarter, and more agile environment through intelligent automation and chatbots.</p>
 
                         <p><strong>Let's dive into how AI is changing BPO services and the difficulties it still faces in this blog.</strong></p>

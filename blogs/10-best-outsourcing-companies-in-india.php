@@ -323,7 +323,7 @@
                             <li><a href="../legal-compliance">Legal & Compliance (LPO)</a></li>
                             <li><a href="../financial-service">Financial Services (FPO)</a></li>
                             <li><a href="../business-consultancy">Business consultancy</a></li>
-                            <li><a href="../angle-investor">Angel Investors</a></li>
+                            <li><a href="../angel-investor">Angel Investors</a></li>
                         </ul>
                     </li>
                     <li><a href="../blog" style="font-weight: 600;">Blogs</a></li>
@@ -379,7 +379,7 @@
                     </div>
 
                     <div class="services-details__content">
-                        <h1>10 Best Outsourcing Companies in India </h1>
+                        <h1 style="display: none;">10 Best Outsourcing Companies in India </h1>
                         <p>Nowadays, big companies give a lot of their work to other companies instead of doing it themselves - this is called outsourcing. This saves them time and also reduces expenses. India is number 1 in this work worldwide. People here are hardworking, do good work at a low price, and also have a good understanding of technology. </p>
                         <p>If you want to give some work for your business outside, then here is the list of the <strong>Top 10 best outsourcing companies in India.</strong></p>
 

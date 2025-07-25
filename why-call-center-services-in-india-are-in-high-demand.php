@@ -24,12 +24,12 @@
     <meta property="og:title" content="Call Center Services in India | Call Center Service Provider  | Razor" />
     <meta property="og:description" content="At Razor Infotech we provide blogs related to our services like Business Process Outsourcing, HR Consultancy, IT Solutions through good research which is easy to understand" />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/">
+    <link rel="canonical" href="https://razorinfotech.com/why-call-center-services-in-india-are-in-high-demand">
     <!-- ===========  All Stylesheet ================= -->
     <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"> -->
    
@@ -72,7 +72,7 @@
                     </div>
 
                     <div class="services-details__content">
-                        <h1>Why Call Center Services in India are in High Demand?</h1>
+                        <h1 style="display: none;">Why Call Center Services in India are in High Demand?</h1>
                         <p>To stand out and be successful in today’s hyper-connected world, customer service has become a core factor. Every business whether a startup or large aims to provide customer support while managing costs, and maintaining quality service. This is where outsourcing services come to light to offer consistency in high demand.  India has established itself as a global leader in the BPO sector, especially in <strong><a href="./outbound-service">call center services</a></strong>. Through this blog, let's have a look at reasons as to why these services are in high demand. </p>
 
                         <h3>Cost-Effectiveness</h3>

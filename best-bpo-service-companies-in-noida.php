@@ -25,12 +25,12 @@
     <meta property="og:title" content="Top 10 BPO Companies in Noida| Razor Infotech| BPO Services" />
     <meta property="og:description" content="Here are the top 10 BPO companies in Noida that offer services including customer support services, back office service, content moderation, and many more." />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/">
+    <link rel="canonical" href="https://razorinfotech.com/best-bpo-service-companies-in-noida">
     <!-- ===========  All Stylesheet ================= -->
     <?php include 'include/head-style.php' ?>
 

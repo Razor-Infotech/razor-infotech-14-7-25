@@ -323,7 +323,7 @@
                             <li><a href="../legal-compliance">Legal & Compliance (LPO)</a></li>
                             <li><a href="../financial-service">Financial Services (FPO)</a></li>
                             <li><a href="../business-consultancy">Business consultancy</a></li>
-                            <li><a href="../angle-investor">Angel Investors</a></li>
+                            <li><a href="../angel-investor">Angel Investors</a></li>
                         </ul>
                     </li>
                     <li><a href="../blog" style="font-weight: 600;">Blogs</a></li>
@@ -379,7 +379,7 @@
                     </div>
 
                     <div class="services-details__content">
-                        <h1>Why is website development important for every business? </h1>
+                        <h1 style="display: none;">Why is website development important for every business? </h1>
                         <p>In today's digital age, if your business is not online, then you are losing a lot. Every customer now searches the internet first, whether they want to buy a product or need information about a service. In such a situation, having a website is not an option but has become a necessity. In this article, we will understand why <strong><a href="../website-development">web development services</a></strong> have become necessary for every business.</p>
 
                         <h3>What is web development?</h3>

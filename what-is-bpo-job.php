@@ -25,12 +25,12 @@
     <meta property="og:title" content="BPO Services in India | Business Process Outsourcing Services " />
     <meta property="og:description" content="With the best BPO service in Noida, improve efficiency, reduce cost, and concentrate on core goals of your brand. We are the one solution for companies across industries for BPO. " />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/bpo-customer-services">
+    <link rel="canonical" href="https://razorinfotech.com/what-is-bpo-job">
     <!-- ===========  All Stylesheet ================= -->
     <?php include 'include/head-style.php' ?>
 
@@ -69,26 +69,26 @@
                     </div>
 
                     <div class="services-details__content">
-                        <h1>What is Business Process Outsourcing (BPO) Job & its Types</h1>
+                        <h1 style="display: none;">What is Business Process Outsourcing (BPO) Job & its Types</h1>
                         <p><strong><a href="./bpo-services">Business Process Outsourcing (BPO)</a></strong>, is a process through which brands or companies hire a third-party service provider. With the growing market, businesses demand to be top-notch with adaptability and competition, and the BPO market is growing at a rapid pace. If you are someone who is intrigued by career prospects in the service industry, there is a range of career opportunities for you to choose from. However, it is important beforehand to have knowledge and skills that are required for the field, or to determine which one is right for you.</p>
                         <p>Through this blog, have a deeper look at what BPO jobs are, along with the skills and qualifications that you need for the jobs. </p>
 
-                        <h5 class="title">What are BPO Jobs?</h5>
+                        <h5>What are BPO Jobs?</h5>
                         <p class="">BPO jobs simply mean the jobs in companies that are the providers of outsourcing services to businesses. The jobs in this field are of different types from customer care to <strong><a href="./it-help-desk">IT help desk</a></strong>. For example, a company's sales team hires an IT company to help the employees with any computer issues. The outsourcing that is done is of the IT process to a third party.</p>
 
-                        <h5 class="title ">Types of BPO Jobs</h5>
-                        <p class="">There are mainly two types of <strong><a href="./bpo-customer-services-interview-question-and-answer">BPO jobs</a></strong> in Noida, Delhi, and every other place. If you wish to work, the following are types you can look out for:</p>
+                        <h5>Types of BPO Jobs</h5>
+                        <p>There are mainly two types of <strong><a href="./bpo-customer-services-interview-question-and-answer">BPO jobs</a></strong> in Noida, Delhi, and every other place. If you wish to work, the following are types you can look out for:</p>
 
-                        <h5 class="title">Voice-based Outsourcing</h5>
-                        <p class="">As the name suggests, voice-based outsourcing means a process hired by businesses to handle the customer's problem directly through phone calls. Primarily, these jobs are off-site and provide help dealing customer care, finance, billing, and others. This process has 2 parts to it:</p>
+                        <h5>Voice-based Outsourcing</h5>
+                        <p>As the name suggests, voice-based outsourcing means a process hired by businesses to handle the customer's problem directly through phone calls. Primarily, these jobs are off-site and provide help dealing customer care, finance, billing, and others. This process has 2 parts to it:</p>
 
                         <ul>
                             <li><strong>Inbound Process:</strong> Under this process, the service provider handles all the incoming customer calls whether for queries, product tracking issues, or any other. The professionals in BPO companies in Delhi, or other places resolve their complaints over the call by raising suitable tickets or complaints about the issue.</li>
                             <li><strong>Outbound Process:</strong> In this process, employees call customers to sell or pitch the products or services for the companies that have outsourced them. Take an example of a BPO company offering services to a bank. The outsourced team will call potential customers or existing ones to sell credit cards or insurance schemes. Overall, this process is important to provide customers with a business's products or services in an appealing way.</li>
                         </ul>
 
-                        <h5 class="title">Non-Voice Based Outsourcing</h5>
-                        <p class="">In non-voice-based outsource services it includes the handling of operations that do not require calling or direct interaction with the customers. BPO service providers offer services such as data entry and processing, <strong><a href="./omnichannel-support">omnichannel support</a></strong>, and back-office tasks like payroll processing and bookkeeping to businesses.</p>
+                        <h5>Non-Voice Based Outsourcing</h5>
+                        <p>In non-voice-based outsource services it includes the handling of operations that do not require calling or direct interaction with the customers. BPO service providers offer services such as data entry and processing, <strong><a href="./omnichannel-support">omnichannel support</a></strong>, and back-office tasks like payroll processing and bookkeeping to businesses.</p>
 
                         <h3 class="title color-pd_black">Advantages of Opting for a BPO Job</h3>
                         <p>Let's have a look at the advantages of working in the BPO industry.</p>

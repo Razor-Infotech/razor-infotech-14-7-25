@@ -25,12 +25,12 @@
     <meta property="og:title" content="Why Call Center Services Are the Smart Choice for Business " />
     <meta property="og:description" content="With the best BPO service in Noida, improve efficiency, reduce cost, and concentrate on core goals of your brand. We are the one solution for companies across industries for BPO. " />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/bpo-customer-services">
+    <link rel="canonical" href="https://razorinfotech.com/why-call-center-services-are-the-smart-choice-for-business">
     <!-- ===========  All Stylesheet ================= -->
     <?php include 'include/head-style.php' ?>
 
@@ -71,7 +71,7 @@
                     </div>
 
                     <div class="services-details__content">
-                        <h1>Why Call Center Services Are the Smart Choice for Business</h1>
+                        <h1 style="display: none;">Why Call Center Services Are the Smart Choice for Business</h1>
                         <p>The call center sector in India has been on the rise with a swift pace over the last few years. As the sector caters to a diverse range of business sizes, the competition has been peaking as well. Whether the companies are big or small, they seek the outsourcing of customer services for their business. It is important to know why call center operations are a smart choice for your business. In this blog, we help you know what <strong><a href="./outbound-service">call center services</a></strong> are and how they are great for growth and efficiency. </p>
 
                         <h3>What are Call Center Services?</h3>

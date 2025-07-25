@@ -25,12 +25,12 @@
     <meta property="og:title" content="Difference Between Web Development and Web Design | Razor Infotech" />
     <meta property="og:description" content="Difference Between Web Development and Web Design. " />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/difference-between-web-development-and-web-design">
+    <link rel="canonical" href="https://razorinfotech.com/blogs/difference-between-web-development-and-web-design">
     <!-- ===========  All Stylesheet ================= -->
 
     <link rel="stylesheet" href=".././assets/css/icons.css">
@@ -323,7 +323,7 @@
                             <li><a href="../legal-compliance">Legal & Compliance (LPO)</a></li>
                             <li><a href="../financial-service">Financial Services (FPO)</a></li>
                             <li><a href="../business-consultancy">Business consultancy</a></li>
-                            <li><a href="../angle-investor">Angel Investors</a></li>
+                            <li><a href="../angel-investor">Angel Investors</a></li>
                         </ul>
                     </li>
                     <li><a href="../blog" style="font-weight: 600;">Blogs</a></li>
@@ -380,7 +380,7 @@
                     </div>
 
                     <div class="services-details__content">
-                        <h1>Difference Between Web Development and Web Design</h1>
+                        <h1 style="display: none;">Difference Between Web Development and Web Design</h1>
                         <p>In the digital world, having a strong online presence has now become essential for every business. Whether it's an e-commerce platform or a corporate website, it is the heart and visual of a business's online presence. Creation of any website takes 2 distinct and important aspects: <strong><a href="../website-development">web design and web development</a></strong>. Many individuals still get them confused and mixed up. In this blog, let's take a brief look at what each of these is and their differences.</p>
         
                         <h3>What is Web Design?</h3>

@@ -71,7 +71,7 @@
                     </div>
 
                     <div class="services-details__content">
-                        <h1>Significance of Business Process Outsourcing Customer Service In Today's World</h1>
+                        <h1 style="display: none;">Significance of Business Process Outsourcing Customer Service In Today's World</h1>
                         <p>In the most recent years, we have seen major changes in the market with rapid technological advancement leading to easier global connections and innovation. The success of any business in this modernized era is to have a strong online presence, effective marketing along adaptability to new trends. <strong><a href="./bpo-services"> Business process outsourcing </a></strong> in the market today has grown significantly in terms of technology and service.</p>
                         <p>The outsourcing market as of 2022 was worth approx. $262 billion. <strong>"59 % of companies outsource customer service to have access to specialized skills" according to a study done by Deloitte.</strong>  </p>
 

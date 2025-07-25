@@ -25,12 +25,12 @@
     <meta property="og:title" content="Top Business Process Outsourcing Trends| Razor Infotech" />
     <meta property="og:description" content="Business Process Outsourcing (BPO) is hiring a third party to manage non-core tasks like customer service, HR, IT, and accounting to boost efficiency and cut costs." />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/">
+    <link rel="canonical" href="https://razorinfotech.com/top-business-process-outsourcing-trends">
     <!-- ===========  All Stylesheet ================= -->
     <?php include 'include/head-style.php' ?>
 
@@ -67,7 +67,7 @@
                     </div>
 
                     <div class="services-details__content">
-                        <h1>Top Business Process Outsourcing Trends</h1>
+                        <h1 style="display: none;">Top Business Process Outsourcing Trends</h1>
 
                         <p><strong><a href="./bpo-services">Business Process Outsourcing</a></strong> in today's modern world has transformed significantly from just being a cost-cutting measure into a strategic need for innovation, growth, and flexibility. With the ever-evolving tech and shift in business, the BPO industry is also entering a new phase fueled by automation, cloud computing, AI, and customer-centric models. In this blog, we will go through some of the outsourced service trends that 2025 has seen and further might as well see. </p>
                         <p>Below is a list of top BPO trends that are reshaping the entire industry. </p>

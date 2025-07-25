@@ -23,12 +23,12 @@
     <meta property="og:title" content="BPO customer services | Call Center Service Provider | Razor Infotech" />
     <meta property="og:description" content="Explore new heights of customer satisfaction with our inbound call services for businesses of every size. Elevate brand reputation, make loyal customers, and generate revenue with scalable service." />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/">
+    <link rel="canonical" href="https://razorinfotech.com/are-inbound-call-center-services-good-for-business-growth">
     <!-- ===========  All Stylesheet ================= -->
     <?php include 'include/head-style.php' ?>
 
@@ -68,7 +68,7 @@
                     </div>
 
                     <div class="services-details__content">
-                        <h1>Are Inbound Call Center Services Good For Business Growth</h1>
+                        <h1 style="display: none;">Are Inbound Call Center Services Good For Business Growth</h1>
                         <p>For any business to thrive in a market, customer experience plays an essential part in it. Services such as inbound call centers have evolved into more support hubs for brands. They provide businesses with strategies that help in revenue growth. Everyone is aware of how outbound aims towards bringing in customers, and how inbound works is quite different. </p>
                         <p>In this blog, let's have a look at what <strong><a href="./inbound-service">inbound call center services</a></strong> are and how they help businesses with their service.</p>
 

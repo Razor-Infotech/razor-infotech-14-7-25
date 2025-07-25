@@ -24,12 +24,12 @@
     <meta property="og:title" content="Voice vs Non Voiceprocess | BPO customer services" />
     <meta property="og:description" content="Explore the impact of voice and non-voice processes on customer satisfaction, engagement, and business growth. Find out which is better for your customer support strategy." />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/">
+    <link rel="canonical" href="https://razorinfotech.com/voice-vs-non-voice-process">
     <!-- ===========  All Stylesheet ================= -->
     <?php include 'include/head-style.php' ?>
 
@@ -71,7 +71,7 @@
                     </div>
 
                     <div class="services-details__content">
-                        <h1>Voice vs Non-Voice Process: Which One Is Suitable For You</h1>
+                        <h1 style="display: none;">Voice vs Non-Voice Process: Which One Is Suitable For You</h1>
                         <p>To compete in the fast-evolving business market, it has become prominent to provide satisfactory customer support. The two most dominating service models that brands outsource are <strong>voice and non-voice processes</strong>. Both of these services help deliver efficient operations to serve various businesses across different industries, goals, and customer expectations.</p>
                         <p>The question that many businesses ask themselves is which one to choose between voice and non-voice processes. In this blog, let's have a look at what each of these processes are and help you determine which option aligns best with your business needs.</p>
 

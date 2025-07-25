@@ -323,7 +323,7 @@
                             <li><a href="../legal-compliance">Legal & Compliance (LPO)</a></li>
                             <li><a href="../financial-service">Financial Services (FPO)</a></li>
                             <li><a href="../business-consultancy">Business consultancy</a></li>
-                            <li><a href="../angle-investor">Angel Investors</a></li>
+                            <li><a href="../angel-investor">Angel Investors</a></li>
                         </ul>
                     </li>
                     <li><a href="../blog" style="font-weight: 600;">Blogs</a></li>
@@ -379,7 +379,7 @@
                     </div>
 
                     <div class="services-details__content">
-                        <h1>How to Purchase Omnichannel Customer Support Services</h1>
+                        <h1 style="display: none;">How to Purchase Omnichannel Customer Support Services</h1>
                         <p>Razor Infotech is a blooming name in the BPO sector, with our understanding of smooth multi-channeled customer engagement services. We aim to provide our clients with a vast range of outsourcing services, and one of them is <strong><a href="../omnichannel-support">Omnichannel customer support</a></strong>. This service is designed to offer unified communication channels to enhance a business's customer experience. </p>
 
                         <p>If you are a business that wants to enhance the customer experience and relationship, this blog is your guide to purchasing our services. </p>

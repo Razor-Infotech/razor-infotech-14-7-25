@@ -25,12 +25,12 @@
     <meta property="og:title" content="What is customer care| Customer support services|Razor Infotech" />
     <meta property="og:description" content="Discover the role of customer care with Razor Infotech. Support your customers better before, during, and after the sale to boost loyalty and satisfaction." />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" />
-    <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/">
+    <link rel="canonical" href="https://razorinfotech.com/what-is-customer-care">
     <!-- ===========  All Stylesheet ================= -->
     <?php include 'include/head-style.php' ?>
 
@@ -68,7 +68,7 @@
                     </div>
 
                     <div class="services-details__content">
-                        <h1>What Is Customer Care & How It Benefits Business</h1>
+                        <h1 style="display: none;">What Is Customer Care & How It Benefits Business</h1>
 
                         <p>Have you ever wondered how some businesses convert their first-time buyers into loyal long-term fans? Well, the key to that is not just the great products, services, or smooth marketing, it is about customer care. What sets a business apart from competition is how it makes the customers feel. Customer care drives loyalty, trust, and growth of your business from answering a simple question to resolving a major issue. Many companies opt to outsource <strong><a href="./customer-support-services">customer support services</a></strong> as a great way to attract new customers and deliver valuable info to regular users.</p>
                         <p>So, let's have a detailed look at why this service matters more than ever.</p>

@@ -177,7 +177,7 @@
                                         <li><a href="../legal-compliance" class="fw-bold">Legal & Compliance (LPO)</a></li>
                                         <li><a href="../financial-service" class="fw-bold">Financial Services (FPO)</a></li>
                                         <li><a href="../business-consultancy" class="fw-bold">Business consultancy</a></li>
-                                        <li><a href="../angle-investor" class="fw-bold">Angle Investors</a></li>
+                                        <li><a href="../angel-investor" class="fw-bold">Angle Investors</a></li>
 
                                     </ul>
                                 </li>
@@ -310,7 +310,7 @@
                             <li><a href="../legal-compliance">Legal & Compliance (LPO)</a></li>
                             <li><a href="../financial-service">Financial Services (FPO)</a></li>
                             <li><a href="../business-consultancy">Business consultancy</a></li>
-                            <li><a href="../angle-investor">Angle Investors</a></li>
+                            <li><a href="../angel-investor">Angle Investors</a></li>
 
                         </ul>
                     </li>

@@ -271,7 +271,7 @@
                             <li><a href="./legal-compliance">Legal & Compliance (LPO)</a></li>
                             <li><a href="./financial-service">Financial Services (FPO)</a></li>
                             <li><a href="./business-consultancy">Business consultancy</a></li>
-                            <li><a href="./angle-investor">Angel Investors</a></li>
+                            <li><a href="./angel-investor">Angel Investors</a></li>
                         </ul>
                     </li>
                     <li><a href="./blog" style="font-weight: 600;">Blogs</a></li>

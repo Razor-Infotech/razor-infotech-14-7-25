@@ -25,12 +25,12 @@
     <meta property="og:title" content="What is Customer Service in BPO? Its Benefits & Limitations" />
     <meta property="og:description" content="With the best BPO service in Noida, improve efficiency, reduce cost, and concentrate on core goals of your brand. We are the one solution for companies across industries for BPO. " />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/bpo-customer-services">
+    <link rel="canonical" href="https://razorinfotech.com/what-is-customer-services-in-bpo">
     <!-- ===========  All Stylesheet ================= -->
     <?php include 'include/head-style.php' ?>
 
@@ -70,7 +70,7 @@
                     </div>
 
                     <div class="services-details__content">
-                        <h1>What is Customer Service in BPO? Its Benefits & Limitations</h1>
+                        <h1 style="display: none;">What is Customer Service in BPO? Its Benefits & Limitations</h1>
                         <p>Customer service plays a vital role in BPO, as it handles incoming and outgoing customer interactions for companies. For any business to grow in the market, customer experience (CX) is an important aspect to handle. Through the BPO, companies can leverage the customer satisfaction part to market their products and services. <strong><a href="./customer-support-services">Customer service</a></strong> in BPO refers to the handling of real-time customer inquiries through multiple channels like text, phone, email, chatbots, and social media.</p>
 
                         <p><strong>"It is said that 80% of customers trust a company's customer experience to signify its products or services."</strong></p>

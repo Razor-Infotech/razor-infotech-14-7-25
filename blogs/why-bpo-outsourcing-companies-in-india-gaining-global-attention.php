@@ -323,7 +323,7 @@
                             <li><a href="../legal-compliance">Legal & Compliance (LPO)</a></li>
                             <li><a href="../financial-service">Financial Services (FPO)</a></li>
                             <li><a href="../business-consultancy">Business consultancy</a></li>
-                            <li><a href="../angle-investor">Angel Investors</a></li>
+                            <li><a href="../angel-investor">Angel Investors</a></li>
                         </ul>
                     </li>
                     <li><a href="../blog" style="font-weight: 600;">Blogs</a></li>
@@ -379,7 +379,7 @@
                     </div>
 
                     <div class="services-details__content">
-                        <h1>Why BPO Outsourcing Companies in India Gaining Global Attention </h1>
+                        <h1 style="display: none;">Why BPO Outsourcing Companies in India Gaining Global Attention </h1>
                         <p>Companies around the world are now outsourcing many of their business processes, such as customer support, data entry, back office operations, and technical support, etc. to external experts - this is called <strong><a href="../bpo-services">BPO (Business Process Outsourcing)</a></strong> . India has become the most preferred country for this outsourcing, and this is why today the demand for BPO outsourcing companies in India is growing very fast globally.</p>
 
                         <h5>Why is BPO needed?</h5>

@@ -25,12 +25,12 @@
     <meta property="og:title" content="Outsourcing data entry services,data entry outsourcing to Noida" />
     <meta property="og:description" content="If you want to data-driven performance and efficiency in your business then outsourcing data entry services offers you many benefits. Data entry outsourcing to Noida at Razor Infotech gives you reduced costs and improved accuracy." />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/">
+    <link rel="canonical" href="https://razorinfotech.com/benefits-of-outsourcing-data-entry-services">
     <!-- ===========  All Stylesheet ================= -->
     <?php include 'include/head-style.php' ?>
 

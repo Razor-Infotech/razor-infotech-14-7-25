@@ -25,12 +25,12 @@
     <meta property="og:title" content="What are BPO Jobs & their Functions | Guide to Business Process Jobs for Freshers" />
     <meta property="og:description" content="With the best BPO service in Noida, improve efficiency, reduce cost, and concentrate on core goals of your brand. We are the one solution for companies across industries for BPO. " />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/bpo-customer-services">
+    <link rel="canonical" href="https://razorinfotech.com/what-are-bpo-job-and-their-functions">
     <!-- ===========  All Stylesheet ================= -->
      <?php include 'include/head-style.php' ?>
 
@@ -70,7 +70,7 @@
                     </div>
 
                     <div class="services-details__content">
-                        <h1>What are BPO Jobs & their Functions? A Guide to Business Process Jobs for Freshers</h1>
+                        <h1 style="display: none;">What are BPO Jobs & their Functions? A Guide to Business Process Jobs for Freshers</h1>
                         <p>In India's vital sector of the economy,<strong><a href="./career">BPO jobs</a></strong> have seen a significant rise and are becoming an essential part of it. Simply put, these jobs are positions for various business operations and processes in a third-party provider hired to work for. Mostly, these jobs contain a range of tasks from customer service to accounting and human resources. </p>
                         <p>These jobs are best known for providing flexibility and cost efficiency for companies outsourcing their operation for optimization. Through this blog, let's have a deep dive into what BPO jobs are and their functions. </p>
                     

@@ -40,12 +40,12 @@
     <meta property="og:title" content="Legal Process Outsourcing Services | Razor Infotech" />
     <meta property="og:description" content="Utilize Razor Infotech's legal outsourcing services to improve your legal operations, including document review, contract administration, and legal research" />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/legal-compliance">
+    <link rel="canonical" href="https://razorinfotech.com/recruitment-process-outsourcing">
     <!-- ===========  All Stylesheet ================= -->
     <?php include 'include/head-style.php' ?>
 

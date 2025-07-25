@@ -30,7 +30,7 @@
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/ai-bpo-services">
+    <link rel="canonical" href="https://razorinfotech.com/blogs/build-a-strong-business-identity-with-marketing-and-branding-in-2025">
     <!-- ===========  All Stylesheet ================= -->
 
     <link rel="stylesheet" href=".././assets/css/icons.css">
@@ -323,7 +323,7 @@
                             <li><a href="../legal-compliance">Legal & Compliance (LPO)</a></li>
                             <li><a href="../financial-service">Financial Services (FPO)</a></li>
                             <li><a href="../business-consultancy">Business consultancy</a></li>
-                            <li><a href="../angle-investor">Angel Investors</a></li>
+                            <li><a href="../angel-investor">Angel Investors</a></li>
                         </ul>
                     </li>
                     <li><a href="../blog" style="font-weight: 600;">Blogs</a></li>
@@ -379,7 +379,7 @@
                     </div>
 
                     <div class="services-details__content">
-                        <h1>Build a Strong Business Identity with Marketing & Branding in 2025</h1>
+                        <h1 style="display: none;">Build a Strong Business Identity with Marketing & Branding in 2025</h1>
                         <p>The year 2025 is the era of digital competition. There are thousands of brands in every sector, but only those that survive are recognized – not just present. Creating a strong business identity is not just an option but a necessity in today's times.</p>
 
                         <p><strong><a href="../marketing-and-branding">Marketing & Branding</a></strong> is more than just a strategy; it has become the soul of your brand. And this is where Razor Infotech, a professional digital marketing company, helps you stand out from the crowd.</p>

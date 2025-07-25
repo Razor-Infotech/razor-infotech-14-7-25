@@ -25,12 +25,12 @@
     <meta property="og:title" content="Customer Support Vs Customer Service: What's Different | Razor Infotech" />
     <meta property="og:description" content="Customer Support Vs Customer Service: What's Different. " />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/customer-support-vs-customer-services">
+    <link rel="canonical" href="https://razorinfotech.com/blogs/customer-support-vs-customer-services">
     <!-- ===========  All Stylesheet ================= -->
 
     <link rel="stylesheet" href=".././assets/css/icons.css">
@@ -323,7 +323,7 @@
                             <li><a href="../legal-compliance">Legal & Compliance (LPO)</a></li>
                             <li><a href="../financial-service">Financial Services (FPO)</a></li>
                             <li><a href="../business-consultancy">Business consultancy</a></li>
-                            <li><a href="../angle-investor">Angel Investors</a></li>
+                            <li><a href="../angel-investor">Angel Investors</a></li>
                         </ul>
                     </li>
                     <li><a href="../blog" style="font-weight: 600;">Blogs</a></li>
@@ -379,7 +379,7 @@
                     </div>
 
                     <div class="services-details__content">
-                        <h1>Customer Support Vs Customer Service: What's Different</h1>
+                        <h1 style="display: none;">Customer Support Vs Customer Service: What's Different</h1>
                         <p>Individuals are very likely to use <strong><a href="../customer-support-services"></a></strong> and support interchangeably, however, there is an elemental difference between the two. This difference between these terms has quite a consequential impact on business design interactions, models of service, and meeting the needs of their customers. Through this blog, let's discuss both of these services and their differences.</p>
         
                         <h3>What is Customer Support?</h3>

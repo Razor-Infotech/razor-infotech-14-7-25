@@ -24,12 +24,12 @@
     <meta property="og:title" content="How Business Process Outsourcing (BPO) Works and Why It Matters" />
     <meta property="og:description" content="At Razor Infotech we provide blogs related to our services like Business Process Outsourcing, HR Consultancy, IT Solutions through good research which is easy to understand" />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/">
+    <link rel="canonical" href="https://razorinfotech.com/what-is-bpo-service">
     <!-- ===========  All Stylesheet ================= -->
     <?php include 'include/head-style.php' ?>
 
@@ -71,7 +71,7 @@
                     </div>
 
                     <div class="services-details__content">
-                        <h1>What is BPO Service: Types, Benefits & How Does it Work</h1>
+                        <h1 style="display: none;">What is BPO Service: Types, Benefits & How Does it Work</h1>
                         <p>As the market is evolving digitally, modern businesses are under constant pressure to improve efficiency, reduce costs, and focus more on core activities. To help the business achieve goals, one solution for organizations across industries is <strong><a href="./bpo-services">Business Process Outsourcing (BPO)</a></strong>. But what exactly does BPO mean? How it works, and why it is an essential strategy for your business's growth.</p>
                         <p>Through this blog, we will help you learn all about BPO services and how your business can leverage success from it for the long term.</p>
                         <h3>What is BPO service?</h3>

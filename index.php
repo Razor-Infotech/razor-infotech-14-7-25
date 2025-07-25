@@ -185,7 +185,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="infinite-slider-item Training"><a href="./training-development">Training & Development</a></div>
                         <div class="infinite-slider-item Talent"><a href="./talent-development">Talent Development</a></div>
                         <div class="infinite-slider-item software"><a href="./software-development">Software Development</a></div>
-                        <div class="infinite-slider-item App"><a href="./app-developement">App Development</a></div>
+                        <div class="infinite-slider-item App"><a href="./app-development">App Development</a></div>
                         <div class="infinite-slider-item Website"><a href="./website-development">Website Development</a></div>
                         <div class="infinite-slider-item marketing"><a href="./marketing-and-branding">Marketing & Branding</a></div>
                         <div class="infinite-slider-item Hosting"><a href="./web-hosting">Web Hosting</a></div>
