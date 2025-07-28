@@ -25,12 +25,12 @@
     <meta property="og:title" content="BPO Customer Service in Noida | Razor Infotech " />
     <meta property="og:description" content="With the best BPO service in Noida, improve efficiency, reduce cost, and concentrate on core goals of your brand. We are the one solution for companies across industries for BPO. " />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/bpo-customer-services">
+    <link rel="canonical" href="https://razorinfotech.com/bpo-customer-service-in-noida">
     <!-- ===========  All Stylesheet ================= -->
     <?php include 'include/head-style.php' ?>
 

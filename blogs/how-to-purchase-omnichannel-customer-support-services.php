@@ -25,12 +25,12 @@
     <meta property="og:title" content="How to Purchase Omnichannel Customer Support Services" />
     <meta property="og:description" content="Boost your customer service with Razor Infotech’s Omnichannel support—chat, phone, email, and more for a smooth, unified customer experience " />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/how-to-purchase-omnichannel-customer-support-services">
+    <link rel="canonical" href="https://razorinfotech.com/blogs/how-to-purchase-omnichannel-customer-support-services">
     <!-- ===========  All Stylesheet ================= -->
 
     <link rel="stylesheet" href=".././assets/css/icons.css">

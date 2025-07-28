@@ -1128,6 +1128,60 @@
                     </div>
                 </div>
 
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="blog-item mb-30">
+                        <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
+                            <div class="media overflow-hidden">
+                                <a href="./blogs/need-of-customer-support-in-e-commerce">
+                                    <img src="./assets/img/blog/blog-14.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="date">
+                                <span>26</span>
+                                <span>July</span>
+                                <span>2025</span>
+                            </div>
+                        </div>
+
+                        <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
+                            <div class="post-author mb-2">
+                                <a href="./blogs/need-of-customer-support-in-e-commerce">BPO Outsourcing Companies </a>
+                            </div>
+                            <h4><a href="./blogs/need-of-customer-support-in-e-commerce">Best Call Center in India for Reliable Customer Support</a></h4>
+                            <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
+                                <a href="./blogs/need-of-customer-support-in-e-commerce" class="theme-btn btn-border">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="blog-item mb-30">
+                        <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
+                            <div class="media overflow-hidden">
+                                <a href="./blogs/5-mistakes-to-avoid-when-choosing-a-bpo-partner">
+                                    <img src="./assets/img/blog/blog-15.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="date">
+                                <span>28</span>
+                                <span>July</span>
+                                <span>2025</span>
+                            </div>
+                        </div>
+
+                        <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
+                            <div class="post-author mb-2">
+                                <a href="./blogs/5-mistakes-to-avoid-when-choosing-a-bpo-partner">BPO Outsourcing Services </a>
+                            </div>
+                            <h4><a href="./blogs/5-mistakes-to-avoid-when-choosing-a-bpo-partner">Top 5 Mistakes to Avoid When Choosing a BPO partner</a></h4>
+                            <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
+                                <a href="./blogs/5-mistakes-to-avoid-when-choosing-a-bpo-partner" class="theme-btn btn-border">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </section>
