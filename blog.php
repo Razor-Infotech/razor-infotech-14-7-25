@@ -1145,9 +1145,9 @@
 
                         <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
                             <div class="post-author mb-2">
-                                <a href="./blogs/need-of-customer-support-in-e-commerce">BPO Outsourcing Companies </a>
+                                <a href="./blogs/need-of-customer-support-in-e-commerce">Customer Support Services </a>
                             </div>
-                            <h4><a href="./blogs/need-of-customer-support-in-e-commerce">Best Call Center in India for Reliable Customer Support</a></h4>
+                            <h4><a href="./blogs/need-of-customer-support-in-e-commerce">Need of Customer Support in E-Commerce</a></h4>
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
                                 <a href="./blogs/need-of-customer-support-in-e-commerce" class="theme-btn btn-border">Read More</a>
                             </div>
