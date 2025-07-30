@@ -9,9 +9,9 @@
 
      <!-- ------------------------- meta tags ----------------------------- -->
     
-    <title> Customer Support Services for all kinds of business</title>
-    <meta name="description" content="Improve customer satisfaction with Razor Infotech’s professional support services, offering better communication, 24/7 support services, & quick issue resolution" />
-    <meta name="keywords" content="Content Creation Service, Content Creation Companies, Content Creation Marketing, Content Creation for Businesses , Best Content Creation Companies, Digital Content, Content Creation Strategy" />
+    <title>Customer Support Services | Customer Care Support | Razor Infotech</title>
+    <meta name="description" content="Razor Infotech : Your partner for 24/7 customer support services. Elevate customer experience with our efficient and cost-effective customer care solutions." />
+    <meta name="keywords" content="Customer Support Services, Outsourced Customer Support, Customer Support Outsourcing, Outsourced Customer Service Companies, Customer Care Support" />
     <meta name="robots" content="default,follow" />
     <meta name="distribution" content="Global" />
     <meta name="language" content="EN-US" />
@@ -22,11 +22,11 @@
     <meta name="copyright" content="Razor Infotech" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="BPO Service Provider Company" />
-    <meta property="og:title" content="Customer Support Services for all kinds of business" />
-    <meta property="og:description" content="Improve customer satisfaction with Razor Infotech’s professional support services, offering better communication, 24/7 support services, & quick issue resolution" />
+    <meta property="og:title" content="Customer Support Services | Customer Care Support | Razor Infotech" />
+    <meta property="og:description" content="Razor Infotech : Your partner for 24/7 customer support services. Elevate customer experience with our efficient and cost-effective customer care solutions." />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">

@@ -33,9 +33,7 @@
                     </a>
 
                     <div class="description font-la color-white mb-40 mb-sm-30 mb-xs-25">
-                        <p>At Razor Infotech, we believe in leveling the playing field for startups and emerging businesses. We are a full-spectrum service provider, combining technology-driven solutions with industry expertise to help our clients scale sustainably. From advanced BPO services to strategic RPO, IT solutions, business consultancy, legal and compliance (LPO), and financial services (FPO), we deliver tailored support designed to meet the unique challenges faced by modern businesses.
-
-</p>
+                        <p>At Razor Infotech, we believe in leveling the playing field for startups and emerging businesses. We are a full-spectrum service provider, combining technology-driven solutions with industry expertise to help our clients scale sustainably. From advanced BPO services to strategic RPO, IT solutions, business consultancy, legal and compliance (LPO), and financial services (FPO), we deliver tailored support designed to meet the unique challenges faced by modern businesses.</p>
                     </div>
 
                 </div>
@@ -50,10 +48,10 @@
                         <li><a href="./about">About Company</a></li>
                         <li><a href="./blog">Blogs</a></li>
                         <li><a href="./career">Career</a></li>
-                        <li><a href="./contact">contact Us</a></li>
+                        <li><a href="./contact">Contact Us</a></li>
                         <li><a href="./legal-compliance">Legal & Compliance (LPO)</a></li>
                         <li><a href="./financial-service">Financial Services (FPO)</a></li>
-                        <li><a href="./business-consultancy">Business consultancy</a></li>
+                        <li><a href="./business-consultancy">Business Consultancy</a></li>
                     </ul>
                 </div>
             </div>
@@ -61,7 +59,7 @@
 
             <div class="col-md-6 col-xl-4">
                 <div class="single-footer-wid contact_widget">
-                    <h4 class="wid-title mb-30 color-white">Office address</h4>
+                    <h4 class="wid-title mb-30 color-white">Office Address</h4>
 
                     <div class="contact-wrapper pt-30 pr-30 pb-30 pl-30">
                         <div class="wid-contact pb-30 mb-25">
@@ -99,6 +97,8 @@
                                 <li><a href="https://www.facebook.com/share/15kvKBxQZg/"><i class="fab fa-facebook-f"></i></a></li>
                                 <li><a href="https://www.instagram.com/razorinfotech/"><i class="fab fa-instagram"></i></a></li>
                                 <li><a href="https://www.linkedin.com/company/razor-infotech/"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li><a href="https://x.com/razorinfotech00"><i class="fab fa-x-twitter"></i></a></li>
+                                <li><a href="https://www.youtube.com/channel/UCmnHaOzXtfSba4ofh7stHlw"><i class="fab fa-youtube"></i></a></li>
                             </ul>
                         </div>
                     </div>
