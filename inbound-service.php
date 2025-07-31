@@ -39,7 +39,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Razor Infotech",
-  "url": "https://www.razorinfotech.com",
+  "url": "https://razorinfotech.com/inbound-service",
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "4.8",
