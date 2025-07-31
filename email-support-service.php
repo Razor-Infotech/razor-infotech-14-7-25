@@ -34,6 +34,43 @@
     <!-- ===========  All Stylesheet ================= -->
     <?php include 'include/head-style.php' ?>
 
+    <script type="application/ld+json">
+<?php
+echo json_encode([
+  "@context" => "https://schema.org",
+  "@type" => "Organization", // or Product/Service, based on your business
+  "name" => "Razor Infotech",
+  "url" => "https://www.razorinfotech.com",
+  "aggregateRating" => [
+    "@type" => "AggregateRating",
+    "ratingValue" => "4.8",
+    "reviewCount" => "28"
+  ],
+  "review" => [
+    [
+      "@type" => "Review",
+      "author" => "Ankit Sharma",
+      "reviewRating" => [
+        "@type" => "Rating",
+        "ratingValue" => "5"
+      ],
+      "reviewBody" => "Excellent IT solutions and fast support!"
+    ],
+    [
+      "@type" => "Review",
+      "author" => "Neha Mehta",
+      "reviewRating" => [
+        "@type" => "Rating",
+        "ratingValue" => "4"
+      ],
+      "reviewBody" => "Professional and helpful BPO services."
+    ]
+  ]
+], JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
+?>
+</script>
+
+
 </head>
 
 
