@@ -40,6 +40,7 @@ echo json_encode([
   "@context" => "https://schema.org",
   "@type" => "Organization", // or Product/Service, based on your business
   "name" => "Razor Infotech",
+  "author" => "client name",
   "url" => "https://razorinfotech.com/email-support-service",
   "aggregateRating" => [
     "@type" => "AggregateRating",
