@@ -77,7 +77,6 @@ echo json_encode([
   "review" => [
     [
       "@type" => "Review",
-      "author" => "Ankit Sharma",
       "reviewRating" => [
         "@type" => "Rating",
         "ratingValue" => "5"
@@ -86,7 +85,6 @@ echo json_encode([
     ],
     [
       "@type" => "Review",
-      "author" => "Neha Mehta",
       "reviewRating" => [
         "@type" => "Rating",
         "ratingValue" => "4"
