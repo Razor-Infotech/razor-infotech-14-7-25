@@ -33,19 +33,6 @@
     <link rel="canonical" href="https://razorinfotech.com/email-support-service">
     <!-- ===========  All Stylesheet ================= -->
     <?php include 'include/head-style.php' ?>
-
-   <div itemscope itemtype="https://schema.org/Review">
-  <div itemprop="itemReviewed" itemscope itemtype="https://schema.org/Organization">
-    <span itemprop="name">Razor Infotech</span>
-  </div>
-  <div itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
-    <span itemprop="ratingValue">4.8</span> out of <span itemprop="bestRating">5</span>
-  </div>
-  <div itemprop="author" itemscope itemtype="https://schema.org/Person">
-    <span itemprop="name">Suraj</span>
-  </div>
-  <meta itemprop="datePublished" content="2025-07-30" />
-  <p itemprop="reviewBody">Great service and responsive support. Highly recommend Razor Infotech for IT solutions.</p>
 </div>
 
 
