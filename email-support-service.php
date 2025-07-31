@@ -34,42 +34,19 @@
     <!-- ===========  All Stylesheet ================= -->
     <?php include 'include/head-style.php' ?>
 
-    <script type="application/ld+json">
-<?php
-echo json_encode([
-  "@context" => "https://schema.org",
-  "@type" => "Organization", // or Product/Service, based on your business
-  "name" => "Razor Infotech",
-  "author" => "client name",
-  "url" => "https://razorinfotech.com/email-support-service",
-  "aggregateRating" => [
-    "@type" => "AggregateRating",
-    "ratingValue" => "4.8",
-    "reviewCount" => "28"
-  ],
-  "review" => [
-    [
-      "@type" => "Review",
-      "author" => "Ankit Sharma",
-      "reviewRating" => [
-        "@type" => "Rating",
-        "ratingValue" => "5"
-      ],
-      "reviewBody" => "Excellent IT solutions and fast support!"
-    ],
-    [
-      "@type" => "Review",
-      "author" => "Neha Mehta",
-      "reviewRating" => [
-        "@type" => "Rating",
-        "ratingValue" => "4"
-      ],
-      "reviewBody" => "Professional and helpful BPO services."
-    ]
-  ]
-], JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
-?>
-</script>
+   <div itemscope itemtype="https://schema.org/Review">
+  <div itemprop="itemReviewed" itemscope itemtype="https://schema.org/Organization">
+    <span itemprop="name">Razor Infotech</span>
+  </div>
+  <div itemprop="reviewRating" itemscope itemtype="https://schema.org/Rating">
+    <span itemprop="ratingValue">4.8</span> out of <span itemprop="bestRating">5</span>
+  </div>
+  <div itemprop="author" itemscope itemtype="https://schema.org/Person">
+    <span itemprop="name">Suraj</span>
+  </div>
+  <meta itemprop="datePublished" content="2025-07-30" />
+  <p itemprop="reviewBody">Great service and responsive support. Highly recommend Razor Infotech for IT solutions.</p>
+</div>
 
 
 </head>
