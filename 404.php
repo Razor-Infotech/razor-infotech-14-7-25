@@ -2,26 +2,6 @@
 header($_SERVER["SERVER_PROTOCOL"]." 404 Not Found", true, 404);
 ?>
 
-<?php
-// Get clean path from URL
-$requestUri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
-$path = trim($requestUri, '/');
-
-// Default to home if path is empty
-if ($path === '') {
-    $file = 'home.php'; // or index content
-} else {
-    // Support .php and clean URLs
-    $file = file_exists("$path.php") ? "$path.php" : null;
-}
-
-// If file exists, include it
-if ($file && file_exists($file)) {
-    include $file;
-} else {
-    include '404.php'; // Show 404 page
-}
-?>
 
 <!DOCTYPE html>
 <html lang="en">
