@@ -10,7 +10,7 @@
      <!-- ------------------------- meta tags ----------------------------- -->
     
     <title> Difference Between Web Development and Web Design | Razor Infotech  </title>
-    <meta name="description" content="Difference Between Web Development and Web Design." />
+    <meta name="description" content="Learn the key differences between web design and web development. Razor Infotech explains how each plays a vital role in building modern, effective websites." />
     <meta name="keywords" content="Web Development, Web Design, Website Development, IT Solution" />
     <meta name="robots" content="default,follow" />
     <meta name="distribution" content="Global" />
@@ -23,7 +23,7 @@
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="BPO Service Provider Company" />
     <meta property="og:title" content="Difference Between Web Development and Web Design | Razor Infotech" />
-    <meta property="og:description" content="Difference Between Web Development and Web Design. " />
+    <meta property="og:description" content="Learn the key differences between web design and web development. Razor Infotech explains how each plays a vital role in building modern, effective websites. " />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
     <meta name="twitter:card" content="BPO Service Provider Company in India" />
     <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
@@ -71,8 +71,10 @@
                         <div class="social-profile">
                             <ul>
                                 <li><a href="https://www.facebook.com/share/15kvKBxQZg/"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href=" https://www.instagram.com/razor_infotechpvt?igsh=andiM2JiZDUwY3l6"><i class="fab fa-instagram"></i></a></li>
+                                <li><a href=" https://www.instagram.com/razorinfotech/"><i class="fab fa-instagram"></i></a></li>
                                 <li><a href="https://www.linkedin.com/company/razor-infotech/"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li><a href="https://x.com/razorinfotech00"><i class="fab fa-x-twitter"></i></a></li>
+                                <li><a href="https://www.youtube.com/channel/UCmnHaOzXtfSba4ofh7stHlw"><i class="fab fa-youtube"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -338,8 +340,10 @@
 
                     <ul>
                         <li><a href="https://www.facebook.com/share/15kvKBxQZg/"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href=" https://www.instagram.com/razor_infotechpvt?igsh=andiM2JiZDUwY3l6"><i class="fab fa-instagram"></i></a></li>
+                        <li><a href=" https://www.instagram.com/razorinfotech/"><i class="fab fa-instagram"></i></a></li>
                         <li><a href="https://www.linkedin.com/company/razor-infotech/"><i class="fab fa-linkedin-in"></i></a></li>
+                        <li><a href="https://x.com/razorinfotech00"><i class="fab fa-x-twitter"></i></a></li>
+                        <li><a href="https://www.youtube.com/channel/UCmnHaOzXtfSba4ofh7stHlw"><i class="fab fa-youtube"></i></a></li>
                     </ul>
                 </div>
             </div>

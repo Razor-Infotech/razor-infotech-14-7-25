@@ -1079,7 +1079,7 @@
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
                                 <a href="./blogs/why-bpo-outsourcing-companies-in-india-gaining-global-attention">
-                                    <img src="./assets/img/blog/blog-11.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
+                                    <img src="./assets/img/why-bpo-outsourcing-companies-in-india-gaining-global-attention.png" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
                             <div class="date">
@@ -1106,7 +1106,7 @@
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
                                 <a href="./blogs/best-call-center-in-india-for-reliable-customer-support">
-                                    <img src="./assets/img/blog/blog-6.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
+                                    <img src="./assets/img/best-call-center-in-india-for-reliable-customer-support.png" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
                             <div class="date">
@@ -1133,7 +1133,7 @@
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
                                 <a href="./blogs/need-of-customer-support-in-e-commerce">
-                                    <img src="./assets/img/blog/blog-14.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
+                                    <img src="./assets/img/need-of-customer-support-in-e-commerce.png" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
                             <div class="date">
@@ -1160,7 +1160,7 @@
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
                                 <a href="./blogs/5-mistakes-to-avoid-when-choosing-a-bpo-partner">
-                                    <img src="./assets/img/blog/blog-15.webp" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
+                                    <img src="./assets/img/5-mistakes-to-avoid-when-choosing-a-bpo-partner.png" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
                             <div class="date">
@@ -1177,6 +1177,87 @@
                             <h4><a href="./blogs/5-mistakes-to-avoid-when-choosing-a-bpo-partner">Top 5 Mistakes to Avoid When Choosing a BPO partner</a></h4>
                             <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
                                 <a href="./blogs/5-mistakes-to-avoid-when-choosing-a-bpo-partner" class="theme-btn btn-border">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="blog-item mb-30">
+                        <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
+                            <div class="media overflow-hidden">
+                                <a href="./blogs/how-bpo-increases-customer-satisfaction-of-a-business">
+                                    <img src="./assets/img/how-bpo-increases-customer-satisfaction-of-a-business.png" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="date">
+                                <span>29</span>
+                                <span>July</span>
+                                <span>2025</span>
+                            </div>
+                        </div>
+
+                        <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
+                            <div class="post-author mb-2">
+                                <a href="./blogs/how-bpo-increases-customer-satisfaction-of-a-business">BPO Customer Services </a>
+                            </div>
+                            <h4><a href="./blogs/how-bpo-increases-customer-satisfaction-of-a-business">How BPO Increases Customer Satisfaction Of A Business</a></h4>
+                            <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
+                                <a href="./blogs/how-bpo-increases-customer-satisfaction-of-a-business" class="theme-btn btn-border">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="blog-item mb-30">
+                        <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
+                            <div class="media overflow-hidden">
+                                <a href="./blogs/top-10-bpo-companies-in-india">
+                                    <img src="./assets/img/top-10-bpo-companies-in-india.png" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="date">
+                                <span>30</span>
+                                <span>July</span>
+                                <span>2025</span>
+                            </div>
+                        </div>
+
+                        <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
+                            <div class="post-author mb-2">
+                                <a href="./blogs/top-10-bpo-companies-in-india">BPO Services </a>
+                            </div>
+                            <h4><a href="./blogs/top-10-bpo-companies-in-india">Top 10 BPO Companies in India</a></h4>
+                            <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
+                                <a href="./blogs/top-10-bpo-companies-in-india" class="theme-btn btn-border">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="blog-item mb-30">
+                        <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
+                            <div class="media overflow-hidden">
+                                <a href="./blogs/how-to-increase-your-schools-admissions-with-local-seo">
+                                    <img src="./assets/img/how-to-increase-your-schools-admissions-with-local-seo.png" class="img-fluid" alt="office time" width="434" height="300" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="date">
+                                <span>31</span>
+                                <span>July</span>
+                                <span>2025</span>
+                            </div>
+                        </div>
+
+                        <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
+                            <div class="post-author mb-2">
+                                <a href="./blogs/how-to-increase-your-schools-admissions-with-local-seo">Marketing Services </a>
+                            </div>
+                            <h4><a href="./blogs/how-to-increase-your-schools-admissions-with-local-seo">How to Increase Your School's Admissions with Local SEO</a></h4>
+                            <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
+                                <a href="./blogs/how-to-increase-your-schools-admissions-with-local-seo" class="theme-btn btn-border">Read More</a>
                             </div>
                         </div>
                     </div>

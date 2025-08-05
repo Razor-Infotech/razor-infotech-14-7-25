@@ -71,8 +71,10 @@
                         <div class="social-profile">
                             <ul>
                                 <li><a href="https://www.facebook.com/share/15kvKBxQZg/"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href=" https://www.instagram.com/razor_infotechpvt?igsh=andiM2JiZDUwY3l6"><i class="fab fa-instagram"></i></a></li>
+                                <li><a href=" https://www.instagram.com/razorinfotech/"><i class="fab fa-instagram"></i></a></li>
                                 <li><a href="https://www.linkedin.com/company/razor-infotech/"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li><a href="https://x.com/razorinfotech00"><i class="fab fa-x-twitter"></i></a></li>
+                                <li><a href="https://www.youtube.com/channel/UCmnHaOzXtfSba4ofh7stHlw"><i class="fab fa-youtube"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -338,8 +340,10 @@
 
                     <ul>
                         <li><a href="https://www.facebook.com/share/15kvKBxQZg/"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href=" https://www.instagram.com/razor_infotechpvt?igsh=andiM2JiZDUwY3l6"><i class="fab fa-instagram"></i></a></li>
+                        <li><a href=" https://www.instagram.com/razorinfotech/"><i class="fab fa-instagram"></i></a></li>
                         <li><a href="https://www.linkedin.com/company/razor-infotech/"><i class="fab fa-linkedin-in"></i></a></li>
+                        <li><a href="https://x.com/razorinfotech00"><i class="fab fa-x-twitter"></i></a></li>
+                        <li><a href="https://www.youtube.com/channel/UCmnHaOzXtfSba4ofh7stHlw"><i class="fab fa-youtube"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -375,7 +379,7 @@
             <div class="row" data-sticky_parent>
                 <div class="col-xl-8" data-sticky_column>
                     <div class="media mb-40 mb-md-35 mb-sm-30 mb-xs-25">
-                        <img src=".././assets/img/blog/blog-6.webp" alt="project details">
+                        <img src=".././assets/img/best-call-center-in-india-for-reliable-customer-support.png" alt="project details">
                     </div>
 
                     <div class="services-details__content">

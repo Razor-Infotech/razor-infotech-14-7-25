@@ -9,8 +9,8 @@
 
      <!-- ------------------------- meta tags ----------------------------- -->
     
-    <title> AI in BPO Services Reshapes the Future of Outsourcing in 2025  </title>
-    <meta name="description" content="AI in BPO Services Reshapes the Future of Outsourcing in 2025" />
+    <title> AI in BPO Services Reshapes the Future of Outsourcing in 2025.  </title>
+    <meta name="description" content=" Meet rising customer expectations with AI-powered chatbots and virtual assistants. Razor Infotech helps BPOs deliver fast, accurate, and human-like support to enhance customer experience." />
     <meta name="keywords" content="Inbound Services, Outbound Services, Customer Support, Customer Service, BPO Services" />
     <meta name="robots" content="default,follow" />
     <meta name="distribution" content="Global" />
@@ -22,8 +22,8 @@
     <meta name="copyright" content="Razor Infotech" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="BPO Service Provider Company" />
-    <meta property="og:title" content="AI in BPO Services Reshapes the Future of Outsourcing in 2025" />
-    <meta property="og:description" content="AI in BPO Services Reshapes the Future of Outsourcing in 2025 " />
+    <meta property="og:title" content="AI in BPO Services Reshapes the Future of Outsourcing in 2025." />
+    <meta property="og:description" content=" Meet rising customer expectations with AI-powered chatbots and virtual assistants. Razor Infotech helps BPOs deliver fast, accurate, and human-like support to enhance customer experience. " />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
     <meta name="twitter:card" content="BPO Service Provider Company in India" />
     <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
@@ -71,8 +71,10 @@
                         <div class="social-profile">
                             <ul>
                                 <li><a href="https://www.facebook.com/share/15kvKBxQZg/"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href=" https://www.instagram.com/razor_infotechpvt?igsh=andiM2JiZDUwY3l6"><i class="fab fa-instagram"></i></a></li>
+                                <li><a href=" https://www.instagram.com/razorinfotech/"><i class="fab fa-instagram"></i></a></li>
                                 <li><a href="https://www.linkedin.com/company/razor-infotech/"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li><a href="https://x.com/razorinfotech00"><i class="fab fa-x-twitter"></i></a></li>
+                                <li><a href="https://www.youtube.com/channel/UCmnHaOzXtfSba4ofh7stHlw"><i class="fab fa-youtube"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -338,8 +340,10 @@
 
                     <ul>
                         <li><a href="https://www.facebook.com/share/15kvKBxQZg/"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href=" https://www.instagram.com/razor_infotechpvt?igsh=andiM2JiZDUwY3l6"><i class="fab fa-instagram"></i></a></li>
+                        <li><a href=" https://www.instagram.com/razorinfotech/"><i class="fab fa-instagram"></i></a></li>
                         <li><a href="https://www.linkedin.com/company/razor-infotech/"><i class="fab fa-linkedin-in"></i></a></li>
+                        <li><a href="https://x.com/razorinfotech00"><i class="fab fa-x-twitter"></i></a></li>
+                        <li><a href="https://www.youtube.com/channel/UCmnHaOzXtfSba4ofh7stHlw"><i class="fab fa-youtube"></i></a></li>
                     </ul>
                 </div>
             </div>
