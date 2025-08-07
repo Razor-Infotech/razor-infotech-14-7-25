@@ -379,7 +379,7 @@
             <div class="row" data-sticky_parent>
                 <div class="col-xl-8" data-sticky_column>
                     <div class="media mb-40 mb-md-35 mb-sm-30 mb-xs-25">
-                        <img src=".././assets/img/5-mistakes-to-avoid-when-choosing-a-bpo-partner.png" alt="project details">
+                        <img src=".././assets/img/5-mistakes-to-avoid-when-choosing-a-bpo-partner.png" alt="5 Mistakes to avoid when choosing a BPO Partner" loading="lazy">
                     </div>
 
                     <div class="services-details__content">

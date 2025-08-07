@@ -379,7 +379,7 @@
             <div class="row" data-sticky_parent>
                 <div class="col-xl-8" data-sticky_column>
                     <div class="media mb-40 mb-md-35 mb-sm-30 mb-xs-25">
-                        <img src=".././assets/img/blog/blog-8.webp" alt="project details">
+                        <img src=".././assets/img/blog/blog-8.webp" alt="Build a strong Business Identity with marketing and Branding in 2025" loading="lazy">
                     </div>
 
                     <div class="services-details__content">

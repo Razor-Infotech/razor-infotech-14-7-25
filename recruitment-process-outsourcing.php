@@ -7,26 +7,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="dev_raj">
-    <meta name="description" content=" Razor Infotech's recruitment process outsourcing (RPO) solution takes your talent acquisition efforts to new heights & maximises your candidate experience">
-    <meta name="keywords" content="recruitment process outsourcing , rpo services ,recruitment process outsourcing companies , 	rpo hiring , human resources department , bpo recruitment  , rpo recruitment process">
-    <!-- ======== Page title ============ -->
+    <!-- ------------------------- meta tags ----------------------------- -->
     <title>Recruitment Made Easy with Expert RPO Services</title>
-    <!-- ========== Favicon Icon ========== -->
-    <link rel=" icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
-    <link rel="canonical" href="https://razorinfotech.com/recruitment-process-outsourcing">
-    <!-- ===========  All Stylesheet ================= -->
-    <link rel="stylesheet" href="assets/css/icons.css">
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/slick.min.css">
-    <link rel="stylesheet" href="assets/css/animate.min.css">
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/style.css">
-
-     <!-- ------------------------- meta tags ----------------------------- -->
-    
-    <title> Legal Process Outsourcing Services | Razor Infotech</title>
-    <meta name="description" content="Utilize Razor Infotech's legal outsourcing services to improve your legal operations, including document review, contract administration, and legal research" />
-    <!-- <meta name="keywords" content="Data Management System, Database Managed Services Provider, Data Management Services Company, Data Management Company in India, Database Management System Software, Customer Database Management, Call Centre and Data management services" /> -->
+    <meta name="description" content=" Razor Infotech's recruitment process outsourcing (RPO) solution takes your talent acquisition efforts to new heights & maximises your candidate experience">
+    <meta name="keywords" content="Recruitment Process Outsourcing, RPO Services, Recruitment Process Outsourcing Companies, 	RPO Hiring, Human Resources Department, BPO Recruitment, RPO Recruitment Process">    
     <meta name="robots" content="default,follow" />
     <meta name="distribution" content="Global" />
     <meta name="language" content="EN-US" />
@@ -37,8 +21,8 @@
     <meta name="copyright" content="Razor Infotech" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="BPO Service Provider Company" />
-    <meta property="og:title" content="Legal Process Outsourcing Services | Razor Infotech" />
-    <meta property="og:description" content="Utilize Razor Infotech's legal outsourcing services to improve your legal operations, including document review, contract administration, and legal research" />
+    <meta property="og:title" content="Recruitment Made Easy with Expert RPO Services" />
+    <meta property="og:description" content="Razor Infotech's recruitment process outsourcing (RPO) solution takes your talent acquisition efforts to new heights & maximises your candidate experience" />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
     <meta name="twitter:card" content="BPO Service Provider Company in India" />
     <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />

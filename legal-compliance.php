@@ -41,6 +41,7 @@
     <?php include 'include/header.php' ?>
 
     <?php include 'coming-soon.php' ?>
+    <h1 style="display: none;">Legal Compliance</h1>
 
     <?php include 'include/footer.php' ?>
 

@@ -63,7 +63,7 @@
             <div class="row" data-sticky_parent>
                 <div class="col-xl-8" data-sticky_column>
                     <div class="media mb-40 mb-md-35 mb-sm-30 mb-xs-25">
-                        <img src="assets/img/blog/best-bpo-services.png" alt="project details">
+                        <img src="assets/img/blog/best-bpo-services.png" alt="Best BPO Service Companies in Noida" loading="lazy">
                     </div>
 
                     <div class="services-details__content">

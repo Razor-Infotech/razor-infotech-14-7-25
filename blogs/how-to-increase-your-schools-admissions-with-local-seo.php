@@ -379,7 +379,7 @@
             <div class="row" data-sticky_parent>
                 <div class="col-xl-8" data-sticky_column>
                     <div class="media mb-40 mb-md-35 mb-sm-30 mb-xs-25">
-                        <img src=".././assets/img/how-to-increase-your-schools-admissions-with-local-seo.png" alt="Increase your school admissions with local seo">
+                        <img src=".././assets/img/how-to-increase-your-schools-admissions-with-local-seo.png" alt="Increase your school admissions with local seo" loading="lazy">
                     </div>
 
                     <div class="services-details__content">

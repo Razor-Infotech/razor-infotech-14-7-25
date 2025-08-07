@@ -379,7 +379,7 @@
             <div class="row" data-sticky_parent>
                 <div class="col-xl-8" data-sticky_column>
                     <div class="media mb-40 mb-md-35 mb-sm-30 mb-xs-25">
-                        <img src=".././assets/img/best-call-center-in-india-for-reliable-customer-support.png" alt="project details">
+                        <img src=".././assets/img/best-call-center-in-india-for-reliable-customer-support.png" alt="Best Call Center in India for Reliable Customer Support" loading="lazy">
                     </div>
 
                     <div class="services-details__content">

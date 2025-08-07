@@ -67,7 +67,7 @@
             <div class="row" data-sticky_parent>
                 <div class="col-xl-8" data-sticky_column>
                     <div class="media mb-40 mb-md-35 mb-sm-30 mb-xs-25">
-                        <img src="assets/img/Customer-Service-Call-Center.webp" alt="project details">
+                        <img src="assets/img/Customer-Service-Call-Center.webp" alt="Why Call Center Services are the smart choice for business" loading="lazy">
                     </div>
 
                     <div class="services-details__content">
