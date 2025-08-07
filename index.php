@@ -53,8 +53,8 @@ $services = [
     <meta property="og:title" content="India's Best BPO Service Provider Company | Razor Infotech" />
     <meta property="og:description" content="At Razor Infotech, we provide services like Business Process Outsourcing, RPO, IT Solutions, HR Outsourcing, & Digital Marketing For Better Client Experiences" />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
