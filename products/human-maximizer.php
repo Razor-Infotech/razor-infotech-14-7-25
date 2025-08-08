@@ -2,26 +2,45 @@
 <html lang="en">
 
 <head>
+    
     <!-- ========== Meta Tags ========== -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="dev_raj">
-    <meta name="description"
-        content="Human Capital Management Software, Human Maximizer helps to do automatic work of HR such as payroll management, employee database etc">
-    <!-- ======== Page title ============ -->
-    <title>Human Capital Management Software</title>
+    <!-- ------------------------- meta tags ----------------------------- -->
+    
+    <title> Human Capital Management Software | Razor Infotech</title>
+    <meta name="description" content="Human Capital Management Software, Human Maximizer helps to do automatic work of HR such as payroll management, employee database etc" />
+    <meta name="keywords" content="call center providers in India, BPO outsourcing companies" />
+    <meta name="robots" content="default,follow" />
+    <meta name="distribution" content="Global" />
+    <meta name="language" content="EN-US" />
+    <meta name="doc-type" content="Public" />
+    <meta name="classification" content="BPO Service Provider Company" />
+    <meta name="author" content="dev_raj" />
+    <meta name="Abstract" content="BPO Service Provider Company" />
+    <meta name="copyright" content="Razor Infotech" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="BPO Service Provider Company" />
+    <meta property="og:title" content="Human Capital Management Software | Razor Infotech" />
+    <meta property="og:description" content="Human Capital Management Software, Human Maximizer helps to do automatic work of HR such as payroll management, employee database etc" />
+    <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
+
     <!-- ========== Favicon Icon ========== -->
-    <link rel=" icon" href=".././assets/img/razor-img/logo/razor-fevicon.webp">
+    <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
+    <link rel="canonical" href="https://razorinfotech.com/products/human-maximizer">
+
     <!-- ===========  All Stylesheet ================= -->
     <link rel="stylesheet" href="../assets/css/icons.css">
     <link rel="stylesheet" href="../assets/css/magnific-popup.css">
     <link rel="stylesheet" href="../assets/css/slick.min.css">
     <link rel="stylesheet" href="../assets/css/animate.min.css">
     <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
     <link rel="stylesheet" href="../assets/css/style.css">
     <link rel="stylesheet" href="../assets/css/page.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
 
 </head>
 
@@ -47,8 +66,10 @@
                             <div class="social-profile">
                                 <ul>
                                     <li><a href="https://www.facebook.com/share/15kvKBxQZg/"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="https://www.instagram.com/razor_infotechpvt?igsh=andiM2JiZDUwY3l6"><i class="fab fa-instagram"></i></a></li>
+                                    <li><a href=" https://www.instagram.com/razorinfotech/"><i class="fab fa-instagram"></i></a></li>
                                     <li><a href="https://www.linkedin.com/company/razor-infotech/"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="https://x.com/razorinfotech00"><i class="fab fa-x-twitter"></i></a></li>
+                                    <li><a href="https://www.youtube.com/channel/UCmnHaOzXtfSba4ofh7stHlw"><i class="fab fa-youtube"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -197,6 +218,7 @@
 
                                         </ul>
                                     </li>
+                                    <li><a href="../blog" style="font-weight: 600;">Blogs</a></li>
 
 
                                 </ul>
@@ -335,6 +357,7 @@
 
                             </ul>
                         </li>
+                        <li><a href="../blog" style="font-weight: 600;">Blogs</a></li>
 
 
                     </ul>
@@ -415,12 +438,11 @@
 
                 <div class="col-lg-6">
                     <div class="team-details__content wow fadeInUp" data-wow-delay=".5s">
+                        <h1 style="display: none;"> Human Maximizer</h1>
                         <h6><img src=".././assets/img/team-details/badge-line.svg" alt="slider gif" width="50" height="10" loading="lazy"> Product</h6>
                         <h2> <a href="https://humanmaximizer.com/" target="blank"> Human Maximizer </a><span>/ Human Capital Management</span></h2>
 
-                        <p>Human Maximizer delivers a groundbreaking HR management software designed to transform human
-                            resource operations across the world. Our innovative performance management system empowers
-                            organizations with advanced tools to streamline and optimize HR processes. By automating
+                        <p>Human Maximizer delivers a groundbreaking HR management software designed to transform human resource operations across the world. Our innovative performance management system empowers organizations with advanced tools to streamline and optimize HR processes. By automating
                             administrative tasks and enhancing employee management, our software fosters greater
                             efficiency and productivity. As a leader in employee management systems, Human Maximizer
                             integrates cutting-edge technology, seamless functionality, and dedicated support, providing
@@ -561,9 +583,11 @@
 
                             <div class="social-profile">
                                 <ul>
-                                     <li><a href="https://www.facebook.com/share/15kvKBxQZg/"><i class="fab fa-facebook-f"></i></a></li>
-                                    <li><a href="https://www.instagram.com/razor_infotechpvt?igsh=andiM2JiZDUwY3l6"><i class="fab fa-instagram"></i></a></li>
+                                    <li><a href="https://www.facebook.com/share/15kvKBxQZg/"><i class="fab fa-facebook-f"></i></a></li>
+                                    <li><a href=" https://www.instagram.com/razorinfotech/"><i class="fab fa-instagram"></i></a></li>
                                     <li><a href="https://www.linkedin.com/company/razor-infotech/"><i class="fab fa-linkedin-in"></i></a></li>
+                                    <li><a href="https://x.com/razorinfotech00"><i class="fab fa-x-twitter"></i></a></li>
+                                    <li><a href="https://www.youtube.com/channel/UCmnHaOzXtfSba4ofh7stHlw"><i class="fab fa-youtube"></i></a></li>
                                 </ul>
                             </div>
                         </div>

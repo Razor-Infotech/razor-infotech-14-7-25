@@ -38,6 +38,7 @@
 <body class="body-wrapper">
     <?php include 'include/header.php' ?>
 
+    <h1 style="display: none;">Business Consultancy</h1>
     <?php include 'coming-soon.php' ?>
 
     <?php include 'include/footer.php' ?>

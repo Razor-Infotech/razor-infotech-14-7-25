@@ -2,16 +2,36 @@
 <html lang="en">
 
 <head>
+    
     <!-- ========== Meta Tags ========== -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="dev_raj">
-    <meta name="description" content="Get honest reviews, comparisons, and the latest updates on smartphones, smart TVs, and emerging tech trends at GadgetFobia">
-    <!-- ======== Page title ============ -->
+    <!-- ------------------------- meta tags ----------------------------- -->
+    
     <title> Gadget Fobia | Compare your Gadgets online</title>
+    <meta name="description" content="Get honest reviews, comparisons, and the latest updates on smartphones, smart TVs, and emerging tech trends at GadgetFobia" />
+    <meta name="keywords" content="call center providers in India, BPO outsourcing companies" />
+    <meta name="robots" content="default,follow" />
+    <meta name="distribution" content="Global" />
+    <meta name="language" content="EN-US" />
+    <meta name="doc-type" content="Public" />
+    <meta name="classification" content="BPO Service Provider Company" />
+    <meta name="author" content="dev_raj" />
+    <meta name="Abstract" content="BPO Service Provider Company" />
+    <meta name="copyright" content="Razor Infotech" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="BPO Service Provider Company" />
+    <meta property="og:title" content="Gadget Fobia | Compare your Gadgets online" />
+    <meta property="og:description" content="Get honest reviews, comparisons, and the latest updates on smartphones, smart TVs, and emerging tech trends at GadgetFobia" />
+    <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
+
     <!-- ========== Favicon Icon ========== -->
-    <link rel=" icon" href=".././assets/img/razor-img/logo/razor-fevicon.webp">
+    <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
+    <link rel="canonical" href="https://razorinfotech.com/products/gadgetfobia">
+
     <!-- ===========  All Stylesheet ================= -->
     <link rel="stylesheet" href="../assets/css/icons.css">
     <link rel="stylesheet" href="../assets/css/magnific-popup.css">
@@ -45,13 +65,11 @@
 
                         <div class="social-profile">
                             <ul>
-                                <li><a href="https://www.facebook.com/share/15kvKBxQZg/"><i
-                                            class="fab fa-facebook-f"></i></a></li>
-
-                                <li><a href="https://www.instagram.com/razor_infotechpvt?igsh=andiM2JiZDUwY3l6"><i
-                                            class="fab fa-instagram"></i></a></li>
-                                <li><a href="https://www.linkedin.com/company/razor-infotech/"><i
-                                            class="fab fa-linkedin-in"></i></a></li>
+                                <li><a href="https://www.facebook.com/share/15kvKBxQZg/"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href=" https://www.instagram.com/razorinfotech/"><i class="fab fa-instagram"></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/razor-infotech/"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li><a href="https://x.com/razorinfotech00"><i class="fab fa-x-twitter"></i></a></li>
+                                <li><a href="https://www.youtube.com/channel/UCmnHaOzXtfSba4ofh7stHlw"><i class="fab fa-youtube"></i></a></li>
                             </ul>
                         </div>
                     </div>
@@ -178,9 +196,9 @@
                                         <li><a href="../financial-service" class="fw-bold">Financial Services (FPO)</a></li>
                                         <li><a href="../business-consultancy" class="fw-bold">Business consultancy</a></li>
                                         <li><a href="../angel-investor" class="fw-bold">Angle Investors</a></li>
-
                                     </ul>
                                 </li>
+                                <li><a href="./blog" style="font-weight: 600;">Blogs</a></li>
 
 
                             </ul>
@@ -237,8 +255,6 @@
                             <li><a href="../marketing-and-branding">Marketing & Branding</a></li>
                             <li><a href="../website-development">Website Development</a></li>
                             <li><a href="../web-hosting">Web Hosting</a></li>
-
-
                         </ul>
                     </li>
 
@@ -311,9 +327,9 @@
                             <li><a href="../financial-service">Financial Services (FPO)</a></li>
                             <li><a href="../business-consultancy">Business consultancy</a></li>
                             <li><a href="../angel-investor">Angle Investors</a></li>
-
                         </ul>
                     </li>
+                    <li><a href="./blog" style="font-weight: 600;">Blogs</a></li>
 
 
                 </ul>
@@ -327,8 +343,10 @@
 
                     <ul>
                        <li><a href="https://www.facebook.com/share/15kvKBxQZg/"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href=" https://www.instagram.com/razor_infotechpvt?igsh=andiM2JiZDUwY3l6"><i class="fab fa-instagram"></i></a></li>
+                        <li><a href=" https://www.instagram.com/razorinfotech/"><i class="fab fa-instagram"></i></a></li>
                         <li><a href="https://www.linkedin.com/company/razor-infotech/"><i class="fab fa-linkedin-in"></i></a></li>
+                        <li><a href="https://x.com/razorinfotech00"><i class="fab fa-x-twitter"></i></a></li>
+                        <li><a href="https://www.youtube.com/channel/UCmnHaOzXtfSba4ofh7stHlw"><i class="fab fa-youtube"></i></a></li>
                     </ul>
                 </div>
             </div>
@@ -393,6 +411,7 @@
 
                 <div class="col-lg-6">
                     <div class="team-details__content wow fadeInUp" data-wow-delay=".5s">
+                        <h1 style="display: none;">Gadgetfobia</h1>
                         <h6><img src=".././assets/img/team-details/badge-line.svg" alt="slider gif" width="50" height="10" loading="lazy"> Product</h6>
                         <h2> <a href="https://gadgetfobia.com" target="blank"> Gadgetfobia </a><span>/ Encyclopedia Of Gadgets</span></h2>
 
@@ -510,9 +529,11 @@
 
                         <div class="social-profile">
                             <ul>
-                                <li><a href="https://www.facebook.com/share/15kvKBxQZg/"><i class="fab fa-facebook-f"></i></a></li>
-                                <li><a href="https://www.instagram.com/razor_infotechpvt?igsh=andiM2JiZDUwY3l6"><i class="fab fa-instagram"></i></a></li>
+                               <li><a href="https://www.facebook.com/share/15kvKBxQZg/"><i class="fab fa-facebook-f"></i></a></li>
+                                <li><a href=" https://www.instagram.com/razorinfotech/"><i class="fab fa-instagram"></i></a></li>
                                 <li><a href="https://www.linkedin.com/company/razor-infotech/"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li><a href="https://x.com/razorinfotech00"><i class="fab fa-x-twitter"></i></a></li>
+                                <li><a href="https://www.youtube.com/channel/UCmnHaOzXtfSba4ofh7stHlw"><i class="fab fa-youtube"></i></a></li>
                             </ul>
                         </div>
                     </div>
