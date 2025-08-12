@@ -45,6 +45,7 @@ $job = $data['job'];
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/job-description.css">
+    <link rel="stylesheet" href="assets/css/page.css">
 </head>
 
 <body class="body-wrapper">

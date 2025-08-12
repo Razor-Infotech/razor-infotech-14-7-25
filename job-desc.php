@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp" type="image/webp">
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/page.css">
 </head>
 <body>
 <?php include 'include/header.php'; ?>
