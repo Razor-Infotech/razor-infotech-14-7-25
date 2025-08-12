@@ -108,7 +108,7 @@ $aboutcard = [
                         <i class="fa-solid fa-calendar-days" style="margin-right: 1rem;"></i>
                         <?= $row['date'] ?>
                     </p>
-                    <a href="job-desc.php?title=<?= $row['title'] ?>" class="view-details-button">View details</a>
+                    <a href="job-desc.php?title=<?= $row['title'] ?>" class="view-details-button">Apply Now</a>
                 </div>
             <?php endwhile; ?>
         <?php else: ?>
