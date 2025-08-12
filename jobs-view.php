@@ -3,7 +3,7 @@ require 'eqc/config.php';
 $query = "SELECT * FROM post";
 $result = $conn->query($query);
 $aboutcard = [
-    ["icon" => "fa-solid fa-chart-simple", "title" => "vission"],
+    ["icon" => "fa-solid fa-chart-simple", "title" => "Vision"],
     ["icon" => "fa-solid fa-clipboard-list", "title" => "Mission"],
     ["icon" => "fa-solid fa-globe", "title" => "Purpose"]
 ];
