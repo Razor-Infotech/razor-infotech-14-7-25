@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost"; // or 127.0.0.1 if Hostinger specifically says so
 $username   = "u965360670_Razorjob"; 
-$password   = "Razor@2025"; 
+$password   = "Razor123@_"; 
 $dbname     = "u965360670_jobs";
 
 // Create connection
