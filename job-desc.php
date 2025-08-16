@@ -110,7 +110,7 @@
                 echo '<div>' . $row['description'] . '</div>'; // Allow HTML content from TinyMCE
                 
                 echo '<div class="section-title">Responsibilities</div>';
-                echo '<div>' . nl2br(htmlspecialchars($row['responsiblities'])) . '</div>';
+                echo '<div>' . $row['responsiblities'] . '</div>';
                 
                 echo '<div class="job-dates">';
                 echo '<span><i class="far fa-calendar-alt"></i> Posted: ' . htmlspecialchars($row['date']) . '</span>';
