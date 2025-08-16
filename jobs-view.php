@@ -60,6 +60,7 @@ $aboutcard = [
             background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
             min-height: 60vh;
             margin-bottom: 2rem;
+            height: 100%;
         }
 
         .result {
@@ -406,7 +407,7 @@ $aboutcard = [
                         <?php 
                         $description = strip_tags($row['description']);
                         echo htmlspecialchars(substr($description, 0, 150) . (strlen($description) > 150 ? "..." : ""));
-                        echo htmlspecialchars($description);
+                        echo htmlspecialchars($salary);
                         ?>
                     </div>
                     
