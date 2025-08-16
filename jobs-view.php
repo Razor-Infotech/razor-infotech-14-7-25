@@ -118,7 +118,7 @@ $aboutcard = [
             font-size: 1rem;
             line-height: 1.6;
             margin-bottom: 15px;
-            padding: 15px;
+            padding: 20px 25px;
             background: #f8f9fa;
             border-radius: 8px;
             border-left: 3px solid #007bff;
@@ -407,7 +407,7 @@ $aboutcard = [
                         <?php 
                         $description = strip_tags($row['description']);
                         echo htmlspecialchars(substr($description, 0, 150) . (strlen($description) > 150 ? "..." : ""));
-                        echo htmlspecialchars($salary);
+                        echo htmlspecialchars($salary_value);
                         ?>
                     </div>
                     
