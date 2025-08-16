@@ -113,6 +113,7 @@ $aboutcard = [
 
         .result .description {
             color: #555;
+            height: 100%;
             font-size: 1rem;
             line-height: 1.6;
             margin-bottom: 15px;
@@ -405,6 +406,7 @@ $aboutcard = [
                         <?php 
                         $description = strip_tags($row['description']);
                         echo htmlspecialchars(substr($description, 0, 150) . (strlen($description) > 150 ? "..." : ""));
+                        echo htmlspecialchars($description);
                         ?>
                     </div>
                     
