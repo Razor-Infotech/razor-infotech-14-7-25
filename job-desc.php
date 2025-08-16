@@ -17,8 +17,8 @@
       if ($result && $result->num_rows > 0) {
           $job_data = $result->fetch_assoc();
       }
-  }elseif(empty($_GET['title'])){
-        header("Location: 404.php");
+  }elseif (empty($_GET['title'])){
+    echo 'hellobdkakdabkndlakn' ;
   }
   ?>
   
