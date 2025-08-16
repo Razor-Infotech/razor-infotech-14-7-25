@@ -10,18 +10,24 @@
 
   // Get job data first for the title and Schema.org markup
   $job_data = null;
-  if (isset($_GET['title'])) {
+  if (isset($_GET['title']) && !empty($_GET['title'])) {
     $title = $conn->real_escape_string($_GET['title']);
     $query = "SELECT * FROM post WHERE title = '$title'";
     $result = $conn->query($query);
 
     if ($result && $result->num_rows > 0) {
       $job_data = $result->fetch_assoc();
+    } else {
+      // No matching post found
+      header("Location: 404.php");
+      exit;
     }
-  } elseif (empty($_GET['title'])) {
+  } else {
+    // Title param missing or empty
     header("Location: 404.php");
     exit;
   }
+
   ?>
 
   <title><?php echo $job_data ? htmlspecialchars($job_data['title']) . ' - Job Details' : 'Job Details'; ?></title>
