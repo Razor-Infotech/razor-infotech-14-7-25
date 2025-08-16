@@ -121,7 +121,7 @@
 
             echo '<div class="section-title">Responsibilities</div>';
             echo '<div>' . $row['responsiblities'] . '</div>';
-            echo '<div>' . $row['salary_value'] . '</div>';
+           
 
             echo '<div class="job-dates">';
             echo '<span><i class="far fa-calendar-alt"></i> Posted: ' . htmlspecialchars($row['date']) . '</span>';
