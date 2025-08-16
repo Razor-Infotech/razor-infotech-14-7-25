@@ -60,7 +60,6 @@ $aboutcard = [
             background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
             min-height: 60vh;
             margin-bottom: 2rem;
-            height: 100%;
         }
 
         .result {
