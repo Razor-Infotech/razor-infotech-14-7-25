@@ -9,7 +9,7 @@
   
   // Get job data first for the title and Schema.org markup
   $job_data = null;
-  if (isset($_GET['title']) && !empty($_GET['title'])) {
+  if (isset($_GET['title'])) {
       $title = $conn->real_escape_string($_GET['title']);
       $query = "SELECT * FROM post WHERE title = '$title'";
       $result = $conn->query($query);
@@ -17,6 +17,8 @@
       if ($result && $result->num_rows > 0) {
           $job_data = $result->fetch_assoc();
       }
+  }elseif(empty($_GET['title'])){
+        header("Location: 404.php");
   }
   ?>
   
@@ -104,7 +106,7 @@
         if ($result->num_rows > 0) {
             while ($row = $result->fetch_assoc()) {
                 echo '<div class="job-card">';
-                echo '<h1>' . htmlspecialchars($row['title']) . '</h1>'; // Changed to h1 for better SEO
+                echo '<h1>' . htmlspecialchars($row['title']) .'</h1>'; // Changed to h1 for better SEO
                 
                 echo '<div class="section-title">Job Description</div>';
                 echo '<div>' . $row['description'] . '</div>'; // Allow HTML content from TinyMCE
