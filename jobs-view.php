@@ -413,7 +413,7 @@ $aboutcard = [
                         $description = strip_tags($row['description']);
                         echo htmlspecialchars(substr($description, 0, 150) . (strlen($description) > 150 ? "..." : ""));
                         ?>
-                        <h1>Salary <?= htmlspecialchars($row['salary_value']) ?></h1>
+                        <h6>Salary <?= htmlspecialchars($row['salary_value']) ?></h6>
                     </div>
 
 
