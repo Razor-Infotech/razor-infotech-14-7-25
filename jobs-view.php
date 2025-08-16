@@ -406,7 +406,7 @@ $aboutcard = [
                         <?php 
                         $description = strip_tags($row['description']);
                         echo htmlspecialchars(substr($description, 0, 150) . (strlen($description) > 150 ? "..." : ""));
-                        echo '<h1>Salary ' . htmlspecialchars($row['salary_value']) . '</h1>';
+                        echo '<h4>Salary ' . htmlspecialchars($row['salary_value']) . '</h4>';
                         ?>
                     </div>
                     
