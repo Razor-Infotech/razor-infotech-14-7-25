@@ -417,10 +417,7 @@ $aboutcard = [
                         <a href="job-desc.php?title=<?= urlencode($row['title']) ?>" class="view-details-button">
                             Apply Now
                         </a>
-                        <button onclick="showModal(<?= $row['id'] ?>)" 
-                                style="background: transparent; border: 2px solid #007bff; color: #007bff; padding: 12px 25px; border-radius: 25px; cursor: pointer; font-weight: 600; transition: all 0.3s ease;">
-                            View Details
-                        </button>
+                        
                     </div>
                 </div>
             <?php endwhile; ?>
@@ -456,10 +453,10 @@ $aboutcard = [
                      style="background: #f8f9fa; padding: 15px; border-radius: 8px; line-height: 1.6;"></div>
             </div>
             
-            <button id="applyButton">
+            <a href='/job-desc?title=<?= urlencode($row['title']) ?>' id="applyButton">
                 <i class="fa-solid fa-paper-plane" style="margin-right: 8px;"></i>
                 Apply Now
-            </button>
+            </a>
         </div>
     </div>
     
@@ -550,7 +547,7 @@ $aboutcard = [
             
             const button = document.getElementById("applyButton");
             button.onclick = function () {
-                window.location.href = `https://razorinfotech.com/job-desc?title=${title}`;
+                window.location.href = `https://razorinfotech.com/job-desc?${title}`;
             };
             
             modal.style.display = "block";
