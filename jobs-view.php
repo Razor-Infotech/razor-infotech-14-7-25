@@ -16,7 +16,7 @@ $aboutcard = [
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+
     <title>Job Listings | Razor Infotech</title>
     <meta name="description" content="Job Listing - Find your dream career at Razor Infotech" />
     <meta name="keywords" content="call center providers in India, BPO outsourcing companies, jobs, careers" />
@@ -50,7 +50,7 @@ $aboutcard = [
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/page.css">
-    
+
     <!-- Enhanced Styling -->
     <style>
         .job-listings {
@@ -288,8 +288,15 @@ $aboutcard = [
         }
 
         @keyframes modalSlideIn {
-            from { opacity: 0; transform: translateY(-50px); }
-            to { opacity: 1; transform: translateY(0); }
+            from {
+                opacity: 0;
+                transform: translateY(-50px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
         }
 
         .close {
@@ -329,15 +336,15 @@ $aboutcard = [
                 flex-direction: column;
                 padding: 20px;
             }
-            
+
             .filter-item {
                 width: 100%;
             }
-            
+
             .result {
                 padding: 20px;
             }
-            
+
             .result h2 {
                 font-size: 1.5rem;
             }
@@ -347,7 +354,7 @@ $aboutcard = [
 
 <body>
     <?php include 'include/header.php'; ?>
-    
+
     <section class="main-jobs-container">
         <div class="head-container">
             <div class="head-container-image">
@@ -370,7 +377,7 @@ $aboutcard = [
             </div>
         </div>
     </section>
-    
+
     <section class="middle-section-1">
         <div class="filter-section">
             <div class="filter-item">
@@ -389,37 +396,37 @@ $aboutcard = [
             </button>
         </div>
     </section>
-    
+
     <section class="job-listings">
         <?php if ($result->num_rows > 0): ?>
             <?php while ($row = $result->fetch_assoc()): ?>
                 <div id="job_<?= $row['id'] ?>" class="result"
-                     data-designation="<?= htmlspecialchars($row['title'], ENT_QUOTES, 'UTF-8') ?>"
-                     data-date-posted="<?= htmlspecialchars($row['date'], ENT_QUOTES, 'UTF-8') ?>"
-                     data-full-description="<?= htmlspecialchars(strip_tags($row['description']), ENT_QUOTES, 'UTF-8') ?>"
-                     data-responsibilities="<?= htmlspecialchars(strip_tags($row['responsiblities']), ENT_QUOTES, 'UTF-8') ?>">
-                    
+                    data-designation="<?= htmlspecialchars($row['title'], ENT_QUOTES, 'UTF-8') ?>"
+                    data-date-posted="<?= htmlspecialchars($row['date'], ENT_QUOTES, 'UTF-8') ?>"
+                    data-full-description="<?= htmlspecialchars(strip_tags($row['description']), ENT_QUOTES, 'UTF-8') ?>"
+                    data-responsibilities="<?= htmlspecialchars(strip_tags($row['responsiblities']), ENT_QUOTES, 'UTF-8') ?>">
+
                     <h2><?= htmlspecialchars($row['title']) ?></h2>
-                    
                     <div class="description">
                         <i class="fa-solid fa-audio-description"></i>
-                        <?php 
+                        <?php
                         $description = strip_tags($row['description']);
                         echo htmlspecialchars(substr($description, 0, 150) . (strlen($description) > 150 ? "..." : ""));
-                        echo '<h4>Salary ' . htmlspecialchars($row['salary_value']) . '</h4>';
                         ?>
+                        <h1>Salary <?= htmlspecialchars($row['salary_value']) ?></h1>
                     </div>
-                    
+
+
                     <p>
                         <i class="fa-solid fa-calendar-days"></i>
                         Posted on: <?= htmlspecialchars(date('F j, Y', strtotime($row['date']))) ?>
                     </p>
-                    
+
                     <div style="display: flex; gap: 15px; align-items: center; margin-top: 20px;">
                         <a href="job-desc.php?title=<?= urlencode($row['title']) ?>" class="view-details-button">
                             Apply Now
                         </a>
-                        
+
                     </div>
                 </div>
             <?php endwhile; ?>
@@ -436,32 +443,32 @@ $aboutcard = [
         <div class="modal-content">
             <span class="close" onclick="closeModal()">&times;</span>
             <h2 id="modalTitle" style="color: #2c3e50; margin-bottom: 20px;"></h2>
-            
+
             <div style="margin-bottom: 25px;">
                 <h4 style="color: #007bff; margin-bottom: 10px;">
                     <i class="fa-solid fa-file-text" style="margin-right: 8px;"></i>
                     Job Description:
                 </h4>
-                <div id="modalDescription" class="modal-description" 
-                     style="background: #f8f9fa; padding: 15px; border-radius: 8px; line-height: 1.6;"></div>
+                <div id="modalDescription" class="modal-description"
+                    style="background: #f8f9fa; padding: 15px; border-radius: 8px; line-height: 1.6;"></div>
             </div>
-            
+
             <div style="margin-bottom: 25px;">
                 <h4 style="color: #28a745; margin-bottom: 10px;">
                     <i class="fa-solid fa-tasks" style="margin-right: 8px;"></i>
                     Key Responsibilities:
                 </h4>
-                <div id="modalResponsibilities" class="modal-responsibilities" 
-                     style="background: #f8f9fa; padding: 15px; border-radius: 8px; line-height: 1.6;"></div>
+                <div id="modalResponsibilities" class="modal-responsibilities"
+                    style="background: #f8f9fa; padding: 15px; border-radius: 8px; line-height: 1.6;"></div>
             </div>
-            
+
             <a href='/job-desc?title=<?= urlencode($row['title']) ?>' id="applyButton">
                 <i class="fa-solid fa-paper-plane" style="margin-right: 8px;"></i>
                 Apply Now
             </a>
         </div>
     </div>
-    
+
     <?php include 'include/footer.php'; ?>
 
     <script>
@@ -470,24 +477,24 @@ $aboutcard = [
             const datePosted = document.getElementById("date-posted").value;
             const results = document.querySelectorAll(".result");
             let visibleCount = 0;
-            
+
             results.forEach(result => {
                 let show = true;
-                
+
                 if (designation !== "") {
                     const itemDesignation = result.getAttribute("data-designation").toLowerCase();
                     if (!itemDesignation.includes(designation)) {
                         show = false;
                     }
                 }
-                
+
                 if (datePosted !== "") {
                     const itemDatePosted = result.getAttribute("data-date-posted");
                     if (itemDatePosted !== datePosted) {
                         show = false;
                     }
                 }
-                
+
                 if (show) {
                     result.style.display = "block";
                     result.style.animation = "fadeIn 0.5s ease";
@@ -536,32 +543,32 @@ $aboutcard = [
         function showModal(jobId) {
             const modal = document.getElementById("jobModal");
             const job = document.getElementById(`job_${jobId}`);
-            
+
             if (!job) return;
-            
+
             const title = job.querySelector("h2").innerText;
             const fullDescription = job.getAttribute("data-full-description");
             const responsibilities = job.getAttribute("data-responsibilities");
-            
+
             document.getElementById("modalTitle").innerText = title;
             document.getElementById("modalDescription").innerText = fullDescription;
             document.getElementById("modalResponsibilities").innerText = responsibilities;
-            
+
             const button = document.getElementById("applyButton");
-            button.onclick = function () {
+            button.onclick = function() {
                 window.location.href = `https://razorinfotech.com/job-desc?${title}`;
             };
-            
+
             modal.style.display = "block";
             document.body.style.overflow = "hidden";
         }
 
         function closeModal() {
             document.getElementById("jobModal").style.display = "none";
-            document.body.style.overflow = "auto"; 
+            document.body.style.overflow = "auto";
         }
 
-        window.onclick = function (event) {
+        window.onclick = function(event) {
             const modal = document.getElementById("jobModal");
             if (event.target == modal) {
                 closeModal();
@@ -577,9 +584,10 @@ $aboutcard = [
         `;
         document.head.appendChild(style);
     </script>
-    
+
     <?php include 'include/footer-style.php' ?>
 </body>
+
 </html>
 
 <?php
