@@ -117,7 +117,7 @@ $aboutcard = [
             font-size: 1rem;
             line-height: 1.6;
             margin-bottom: 15px;
-            padding: 20px 25px;
+            padding: 25px;
             background: #f8f9fa;
             border-radius: 8px;
             border-left: 3px solid #007bff;
