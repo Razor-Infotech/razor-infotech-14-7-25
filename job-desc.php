@@ -127,7 +127,6 @@
       <div class="career-form">
         <div class="form-title">Apply for this Position</div>
         <form id="career-form" action="./career-form-submit" method="POST" enctype="multipart/form-data">
-          <!-- Add hidden field to capture the job title -->
           <input type="hidden" name="job_title" value="<?php echo isset($_GET['title']) ? htmlspecialchars($_GET['title']) : ''; ?>">
           
           <div class="row">

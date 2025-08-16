@@ -550,16 +550,16 @@ $aboutcard = [
             
             const button = document.getElementById("applyButton");
             button.onclick = function () {
-                window.location.href = `https://razorinfotech.com/career#career-form`;
+                window.location.href = `https://razorinfotech.com/job-desc?title=${title}`;
             };
             
             modal.style.display = "block";
-            document.body.style.overflow = "hidden"; // Prevent background scrolling
+            document.body.style.overflow = "hidden";
         }
 
         function closeModal() {
             document.getElementById("jobModal").style.display = "none";
-            document.body.style.overflow = "auto"; // Restore scrolling
+            document.body.style.overflow = "auto"; 
         }
 
         window.onclick = function (event) {
