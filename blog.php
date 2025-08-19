@@ -1348,6 +1348,142 @@
                     </div>
                 </div>
 
+
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="blog-item mb-30">
+                        <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
+                            <div class="media overflow-hidden">
+                                <a href="./blogs/role-of-ai-in-bpo-services">
+                                    <img src="./assets/img/role-of-ai-in-bpo-services.png" class="img-fluid" alt="Role of AI in BPO Services" width="434" height="300" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="date">
+                                <span>06</span>
+                                <span>August</span>
+                                <span>2025</span>
+                            </div>
+                        </div>
+
+                        <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
+                            <div class="post-author mb-2">
+                                <a href="./blogs/role-of-ai-in-bpo-services">BPO Services </a>
+                            </div>
+                            <h4><a href="./blogs/role-of-ai-in-bpo-services">Role of AI in BPO Services</a></h4>
+                            <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
+                                <a href="./blogs/role-of-ai-in-bpo-services" class="theme-btn btn-border">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="blog-item mb-30">
+                        <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
+                            <div class="media overflow-hidden">
+                                <a href="./blogs/benefits-of-bpo-service-for-small-businesses">
+                                    <img src="./assets/img/benefits-of-bpo-service-for-small-businesses.png" class="img-fluid" alt="Benefits Of BPO Service For Small Businesses" width="434" height="300" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="date">
+                                <span>07</span>
+                                <span>August</span>
+                                <span>2025</span>
+                            </div>
+                        </div>
+
+                        <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
+                            <div class="post-author mb-2">
+                                <a href="./blogs/benefits-of-bpo-service-for-small-businesses">BPO Services </a>
+                            </div>
+                            <h4><a href="./blogs/benefits-of-bpo-service-for-small-businesses">Benefits Of BPO Service For Small Businesses</a></h4>
+                            <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
+                                <a href="./blogs/benefits-of-bpo-service-for-small-businesses" class="theme-btn btn-border">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="blog-item mb-30">
+                        <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
+                            <div class="media overflow-hidden">
+                                <a href="./blogs/top-7-call-center-service-providers-in-noida-and-delhi">
+                                    <img src="./assets/img/top-7-call-center-service-providers-in-noida-and-delhi.png" class="img-fluid" alt="Top 7 Call Center Service Providers in Noida & Delhi" width="434" height="300" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="date">
+                                <span>11</span>
+                                <span>August</span>
+                                <span>2025</span>
+                            </div>
+                        </div>
+
+                        <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
+                            <div class="post-author mb-2">
+                                <a href="./blogs/top-7-call-center-service-providers-in-noida-and-delhi">Call Center Services </a>
+                            </div>
+                            <h4><a href="./blogs/top-7-call-center-service-providers-in-noida-and-delhi">Top 7 Call Center Service Providers in Noida & Delhi</a></h4>
+                            <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
+                                <a href="./blogs/top-7-call-center-service-providers-in-noida-and-delhi" class="theme-btn btn-border">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="blog-item mb-30">
+                        <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
+                            <div class="media overflow-hidden">
+                                <a href="./blogs/top-10-bpo-service-benefits-for-modern-business">
+                                    <img src="./assets/img/top-10-bpo-service-benefits-for-modern-business.png" class="img-fluid" alt="Top 7 Call Center Service Providers in Noida & Delhi" width="434" height="300" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="date">
+                                <span>12</span>
+                                <span>August</span>
+                                <span>2025</span>
+                            </div>
+                        </div>
+
+                        <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
+                            <div class="post-author mb-2">
+                                <a href="./blogs/top-10-bpo-service-benefits-for-modern-business">BPO Support Services </a>
+                            </div>
+                            <h4><a href="./blogs/top-10-bpo-service-benefits-for-modern-business">Top 10 BPO Service Benefits For Modern Business</a></h4>
+                            <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
+                                <a href="./blogs/top-10-bpo-service-benefits-for-modern-business" class="theme-btn btn-border">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="blog-item mb-30">
+                        <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
+                            <div class="media overflow-hidden">
+                                <a href="./blogs/7-benefits-of-choosing-back-office-outsourcing">
+                                    <img src="./assets/img/7-benefits-of-choosing-back-office-outsourcing.png" class="img-fluid" alt="Top 7 Call Center Service Providers in Noida & Delhi" width="434" height="300" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="date">
+                                <span>14</span>
+                                <span>August</span>
+                                <span>2025</span>
+                            </div>
+                        </div>
+
+                        <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
+                            <div class="post-author mb-2">
+                                <a href="./blogs/7-benefits-of-choosing-back-office-outsourcing">Back Office Outsourcing </a>
+                            </div>
+                            <h4><a href="./blogs/7-benefits-of-choosing-back-office-outsourcing">7 Benefits of Choosing Back Office Outsourcing</a></h4>
+                            <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
+                                <a href="./blogs/7-benefits-of-choosing-back-office-outsourcing" class="theme-btn btn-border">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </section>
