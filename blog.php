@@ -1484,6 +1484,33 @@
                     </div>
                 </div>
 
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="blog-item mb-30">
+                        <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
+                            <div class="media overflow-hidden">
+                                <a href="./blogs/top-10-kpo-companies-in-india">
+                                    <img src="./assets/img/7-benefits-of-choosing-back-office-outsourcing.png" class="img-fluid" alt="Top 7 Call Center Service Providers in Noida & Delhi" width="434" height="300" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="date">
+                                <span>18</span>
+                                <span>August</span>
+                                <span>2025</span>
+                            </div>
+                        </div>
+
+                        <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
+                            <div class="post-author mb-2">
+                                <a href="./blogs/top-10-kpo-companies-in-india">BPO Services </a>
+                            </div>
+                            <h4><a href="./blogs/top-10-kpo-companies-in-india">Top 10 KPO Companies in India</a></h4>
+                            <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
+                                <a href="./blogs/top-10-kpo-companies-in-india" class="theme-btn btn-border">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </section>
