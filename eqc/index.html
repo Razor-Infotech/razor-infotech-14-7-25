@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Form</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <!-- Employee Details Form -->
+        <div id="detailsFormContainer" class="form-container">
+            <div class="text-center mb-4">
+                <img src="https://razorinfotech.com/img/logo1.png" alt="Logo" class="logo">
+            </div>
+            <h2 class="text-center mb-4">Employee Details Form</h2>
+            <form id="detailsForm">
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="name">Name</label>
+                        <input type="text" class="form-control" id="name" name="name" required>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="employeeId">Employee ID</label>
+                        <input type="text" class="form-control" id="employeeId" name="employeeId" required>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="team">Team</label>
+                        <select class="form-control" id="team" name="team" required>
+                            <option value="">Select Team</option>
+                            <option value="R1">R1</option>
+                            <option value="R2">R2</option>
+                        </select>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="tenure">Tenure in the Company</label>
+                        <input type="text" class="form-control" id="tenure" name="tenure" required>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="callType">Call Type</label>
+                        <select class="form-control" id="callType" name="callType" required>
+                            <option value="">Select Call Type</option>
+                            <option value="Hot lead">Hot lead</option>
+                            <option value="Follow up">Follow up</option>
+                            <option value="STS">STS</option>
+                        </select>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="reviewerName">Reviewer Name</label>
+                        <input type="text" class="form-control" id="reviewerName" name="reviewerName" required>
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-custom btn-block">Start</button>
+            </form>
+        </div>
+
+        <!-- Employee Performance Evaluation Form -->
+        <div id="evaluationFormContainer" class="form-container d-none">
+            <div class="text-center mb-4">
+                <img src="https://razorinfotech.com/img/logo1.png" alt="Logo" class="logo">
+            </div>
+            <h2 class="text-center mb-4">Employee Performance Evaluation</h2>
+            <form id="evaluationForm">
+              
+                <!-- Section 1 -->
+                <div class="form-section">
+                    <h3>Introduction</h3>
+                    <div class="form-group">
+                        <label>1. Was the salesperson professional during the introduction?</label>
+                        <div>
+                            <input type="radio" name="q1" value="yes" required> Yes
+                            <input type="radio" name="q1" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment1">Comment:</label>
+                            <textarea id="comment1" name="comment1" class="form-control" required></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>2. Did they clearly state their name, company, and the purpose of the call?</label>
+                        <div>
+                            <input type="radio" name="q2" value="yes" required> Yes
+                            <input type="radio" name="q2" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment2">Comment:</label>
+                            <textarea id="comment2" name="comment2" class="form-control" required></textarea>
+                        </div>
+                    </div>
+                    <button type="button" class="btn btn-custom btn-block back-button">Back</button>
+                    <button type="button" class="btn btn-custom btn-block next-button">Next</button>
+                </div>
+
+                <!-- Section 2 -->
+                <div class="form-section d-none">
+                    <h3>Product Knowledge</h3>
+                    <div class="form-group">
+                        <label>1. Did the salesperson demonstrate thorough knowledge of the product/service?</label>
+                        <div>
+                            <input type="radio" name="q3" value="yes" required> Yes
+                            <input type="radio" name="q3" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment3">Comment:</label>
+                            <textarea id="comment3" name="comment3" class="form-control" required></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>2. Were they able to answer the prospect’s questions accurately and confidently?</label>
+                        <div>
+                            <input type="radio" name="q4" value="yes" required> Yes
+                            <input type="radio" name="q4" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment4">Comment:</label>
+                            <textarea id="comment4" name="comment4" class="form-control" required></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>3. Did the salesperson effectively identify the prospect’s needs and pain points?</label>
+                        <div>
+                            <input type="radio" name="q5" value="yes" required> Yes
+                            <input type="radio" name="q5" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment5">Comment:</label>
+                            <textarea id="comment5" name="comment5" class="form-control" required></textarea>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label>4. Were they able to align the product/service benefits with the prospect’s
+                            requirements?</label>
+                        <div>
+                            <input type="radio" name="q6" value="yes" required> Yes
+                            <input type="radio" name="q6" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment6">Comment:</label>
+                            <textarea id="comment6" name="comment6" class="form-control" required></textarea>
+                        </div>
+                    </div><button type="button" class="btn btn-custom btn-block back-button">Back</button>
+                    <button type="button" class="btn btn-custom btn-block next-button">Next</button>
+                </div>
+
+                <!-- Section 3 -->
+                <div class="form-section">
+                    <h3>Communication Skills</h3>
+                    <div class="form-group">
+                        <label>1. Was the salesperson clear and articulate in their communication?</label>
+                        <div>
+                            <input type="radio" name="q7" value="yes" required> Yes
+                            <input type="radio" name="q7" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment7">Comment:</label>
+                            <textarea id="comment7" name="comment7" class="form-control" required></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>2. Did they use appropriate language and tone?</label>
+                        <div>
+                            <input type="radio" name="q8" value="yes" required> Yes
+                            <input type="radio" name="q8" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment8">Comment:</label>
+                            <textarea id="comment8" name="comment8" class="form-control" required></textarea>
+                        </div>
+                    </div><button type="button" class="btn btn-custom btn-block back-button">Back</button>
+                    <button type="button" class="btn btn-custom btn-block next-button">Next</button>
+                </div>
+
+                <!-- Section 4 -->
+                <div class="form-section">
+                    <h3>Closing Techniques</h3>
+                    <div class="form-group">
+                        <label>1. Did the salesperson use effective closing techniques to secure the sale?</label>
+                        <div>
+                            <input type="radio" name="q9" value="yes" required> Yes
+                            <input type="radio" name="q9" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment9">Comment:</label>
+                            <textarea id="comment9" name="comment9" class="form-control" required></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>2. Did they ask for the sale at the appropriate time?</label>
+                        <div>
+                            <input type="radio" name="q10" value="yes" required> Yes
+                            <input type="radio" name="q10" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment10">Comment:</label>
+                            <textarea id="comment10" name="comment10" class="form-control" required></textarea>
+                        </div>
+                    </div>
+                    <button type="button" class="btn btn-custom btn-block back-button">Back</button>
+                    <button type="button" class="btn btn-custom btn-block next-button">Next</button>
+                </div>
+
+                <!-- Section 5 -->
+                <div class="form-section">
+                    <h3>Rapport Building</h3>
+                    <div class="form-group">
+                        <label>1. Did the salesperson build rapport and establish a good relationship with the
+                            prospect?</label>
+                        <div>
+                            <input type="radio" name="q11" value="yes" required> Yes
+                            <input type="radio" name="q11" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment11">Comment:</label>
+                            <textarea id="comment11" name="comment11" class="form-control" required></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>2. Were they able to create a positive and trustworthy impression?</label>
+                        <div>
+                            <input type="radio" name="q12" value="yes" required> Yes
+                            <input type="radio" name="q12" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment12">Comment:</label>
+                            <textarea id="comment12" name="comment12" class="form-control" required></textarea>
+                        </div>
+                    </div>
+                    <button type="button" class="btn btn-custom btn-block back-button">Back</button>
+                    <button type="button" class="btn btn-custom btn-block next-button">Next</button>
+                </div>
+
+
+                <!-- Section 6 -->
+                <div class="form-section">
+                    <h3>Call Control</h3>
+                    <div class="form-group">
+                        <label>1. Did the salesperson maintain control of the call without being too aggressive?</label>
+                        <div>
+                            <input type="radio" name="q13" value="yes" required> Yes
+                            <input type="radio" name="q13" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment13">Comment:</label>
+                            <textarea id="comment13" name="comment13" class="form-control" required></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>2. Were they able to guide the conversation towards the desired outcome?</label>
+                        <div>
+                            <input type="radio" name="q14" value="yes" required> Yes
+                            <input type="radio" name="q14" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment14">Comment:</label>
+                            <textarea id="comment14" name="comment14" class="form-control" required></textarea>
+                        </div>
+                    </div>
+                    <button type="button" class="btn btn-custom btn-block back-button">Back</button>
+                    <button type="button" class="btn btn-custom btn-block next-button">Next</button>
+                </div>
+
+
+                <!-- Section 7 -->
+                <div class="form-section">
+                    <h3>Compliance and Ethics</h3>
+                    <div class="form-group">
+                        <label>1. Did the salesperson adhere to the company’s compliance and ethical guidelines?</label>
+                        <div>
+                            <input type="radio" name="q15" value="yes" required> Yes
+                            <input type="radio" name="q15" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment15">Comment:</label>
+                            <textarea id="comment15" name="comment15" class="form-control" required></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>2. Were all terms and conditions communicated clearly to the prospect?</label>
+                        <div>
+                            <input type="radio" name="q16" value="yes" required> Yes
+                            <input type="radio" name="q16" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment16">Comment:</label>
+                            <textarea id="comment16" name="comment16" class="form-control" required></textarea>
+                        </div>
+                    </div><button type="button" class="btn btn-custom btn-block back-button">Back</button>
+                    <button type="button" class="btn btn-custom btn-block next-button">Next</button>
+                </div>
+
+                <!-- Section 8 -->
+                <div class="form-section">
+                    <h3>Follow-Up</h3>
+                    <div class="form-group">
+                        <label>1. Did the salesperson establish a clear follow-up plan and communicate it to the
+                            prospect?</label>
+                        <div>
+                            <input type="radio" name="q17" value="yes" required> Yes
+                            <input type="radio" name="q17" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment17">Comment:</label>
+                            <textarea id="comment17" name="comment17" class="form-control" required></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>2. Were next steps agreed upon and documented?</label>
+                        <div>
+                            <input type="radio" name="q18" value="yes" required> Yes
+                            <input type="radio" name="q18" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment18">Comment:</label>
+                            <textarea id="comment18" name="comment18" class="form-control" required></textarea>
+                        </div>
+                    </div>
+                    <button type="button" class="btn btn-custom btn-block back-button">Back</button>
+                    <button type="button" class="btn btn-custom btn-block next-button">Next</button>
+                </div>
+
+                <!-- Section 9 -->
+                <div class="form-section">
+                    <h3>Professionalism</h3>
+                    <div class="form-group">
+                        <label>1. Overall, was the salesperson’s demeanour professional throughout the call?</label>
+                        <div>
+                            <input type="radio" name="q19" value="yes" required> Yes
+                            <input type="radio" name="q19" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment19">Comment:</label>
+                            <textarea id="comment19" name="comment19" class="form-control" required></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>2. Did they handle the call with appropriate confidence and competence?</label>
+                        <div>
+                            <input type="radio" name="q20" value="yes" required> Yes
+                            <input type="radio" name="q20" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment20">Comment:</label>
+                            <textarea id="comment20" name="comment20" class="form-control" required></textarea>
+                        </div>
+                    </div>
+                    <button type="button" class="btn btn-custom btn-block back-button">Back</button>
+                    <button type="button" class="btn btn-custom btn-block next-button">Next</button>
+                </div>
+
+
+                <!-- Section 10 -->
+                <div class="form-section d-none">
+                    <h3>Customer Feedback</h3>
+                    <div class="form-group">
+                        <label>1. Was any feedback or reaction from the prospect noted and addressed
+                            appropriately?</label>
+                        <div>
+                            <input type="radio" name="q21" value="yes" required> Yes
+                            <input type="radio" name="q21" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment21">Comment:</label>
+                            <textarea id="comment21" name="comment21" class="form-control" required></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label>1. Did the salesperson show a willingness to adapt based on the prospect’s
+                            feedback?</label>
+                        <div>
+                            <input type="radio" name="q22" value="yes" required> Yes
+                            <input type="radio" name="q22" value="no" required> No
+                        </div>
+                        <div class="comment-box d-none">
+                            <label for="comment22">Comment:</label>
+                            <textarea id="comment22" name="comment22" class="form-control" required></textarea>
+                        </div>
+                    </div>
+                    <button type="button" class="btn btn-custom btn-block back-button">Back</button>
+                    <button type="submit" class="btn btn-custom btn-block">Submit</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+ <script>
+    document.addEventListener("DOMContentLoaded", function () {
+        var detailsFormContainer = document.getElementById("detailsFormContainer");
+        var evaluationFormContainer = document.getElementById("evaluationFormContainer");
+
+        document.getElementById("detailsForm").addEventListener("submit", function (event) {
+            event.preventDefault();
+            detailsFormContainer.classList.add("d-none");
+            evaluationFormContainer.classList.remove("d-none");
+        });
+
+        var currentSectionIndex = 0;
+        var sections = document.querySelectorAll(".form-section");
+        var nextButtons = document.querySelectorAll(".next-button");
+        var backButtons = document.querySelectorAll('.back-button');
+
+        function showSection(index) {
+            sections.forEach(function (section, i) {
+                section.classList.toggle("d-none", i !== index);
+            });
+        }
+
+        nextButtons.forEach(function (button) {
+            button.addEventListener("click", function () {
+                var currentSection = sections[currentSectionIndex];
+                var radios = currentSection.querySelectorAll('input[type="radio"]');
+                var valid = true;
+
+                radios.forEach(function (radio) {
+                    var commentBox = radio.closest(".form-group").querySelector(".comment-box");
+                    var comment = commentBox.querySelector("textarea");
+
+                    if (radio.checked && radio.value === "no" && commentBox.classList.contains("d-none")) {
+                        commentBox.classList.remove("d-none");
+                    }
+
+                    if (radio.checked && radio.value === "no" && comment && !comment.value.trim()) {
+                        valid = false;
+                        comment.classList.add("is-invalid");
+                    } else if (comment) {
+                        comment.classList.remove("is-invalid");
+                    }
+                });
+
+                // Ensure all required fields are filled
+                if (currentSection.querySelectorAll('input[type="radio"]:checked').length <
+                    currentSection.querySelectorAll('input[type="radio"]').length / 2) {
+                    valid = false;
+                }
+
+                if (valid) {
+                    currentSectionIndex = Math.min(currentSectionIndex + 1, sections.length - 1);
+                    showSection(currentSectionIndex);
+                } else {
+                    alert("Please fill in all the comments and select all radio buttons.");
+                }
+            });
+        });
+
+        document.getElementById("evaluationForm").addEventListener("change", function (event) {
+            if (event.target.type === "radio") {
+                var commentBox = event.target.closest(".form-group").querySelector(".comment-box");
+                if (event.target.value === "no") {
+                    commentBox.classList.remove("d-none");
+                } else {
+                    commentBox.classList.add("d-none");
+                    var comment = commentBox.querySelector("textarea");
+                    if (comment) {
+                        comment.value = '';
+                        comment.classList.remove("is-invalid");
+                    }
+                }
+            }
+        });
+
+        showSection(currentSectionIndex); // Initial call to show the first section
+        
+        backButtons.forEach(function (button) {
+        button.addEventListener('click', function () {
+            currentSectionIndex = Math.max(currentSectionIndex - 1, 0);
+            showSection(currentSectionIndex);
+        });
+    });
+
+        document.getElementById("evaluationForm").addEventListener("submit", function (event) {
+            event.preventDefault();
+
+            var formData = new FormData(document.getElementById("detailsForm"));
+            var evaluationData = new FormData(event.target);
+
+            // Combine both form data
+            for (var pair of evaluationData.entries()) {
+                formData.append(pair[0], pair[1]);
+            }
+
+            fetch('submit_form.php', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    alert('Evaluation submitted successfully!');
+                    window.location.href = "thank.html"; // Navigate to thank.html on success
+                } else {
+                    alert('There was an error submitting the evaluation. Please try again.');
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('There was an error submitting the evaluation. Please try again.');
+            });
+        });
+    });
+</script>
+
+
+</body>
+
+</html>
