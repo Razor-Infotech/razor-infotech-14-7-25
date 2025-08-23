@@ -1489,11 +1489,11 @@
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
                                 <a href="./blogs/top-10-kpo-companies-in-india">
-                                    <img src="./assets/img/7-benefits-of-choosing-back-office-outsourcing.png" class="img-fluid" alt="Top 7 Call Center Service Providers in Noida & Delhi" width="434" height="300" loading="lazy">
+                                    <img src="./assets/img/top-10-kpo-companies-in-india.png" class="img-fluid" alt="Top 7 Call Center Service Providers in Noida & Delhi" width="434" height="300" loading="lazy">
                                 </a>
                             </div>
                             <div class="date">
-                                <span>20</span>
+                                <span>18</span>
                                 <span>August</span>
                                 <span>2025</span>
                             </div>
