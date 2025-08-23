@@ -11,7 +11,7 @@
     
     <title> Content Moderation Services</title>
     <meta name="description" content="Companies such as Razor Infotech offer the best content moderation services through text, posts, media submissions & various files, attachments & links" />
-    <meta name="keywords" content="Content Moderation Services, Content Moderation, Content Moderation Companies, Content Moderation Solution Provider, Content Moderation Outsourcing, Content Moderation Bpo, Content Moderator in Bpo" />
+    <meta name="keywords" content="Content Moderation Services, Content Moderation, Content Moderation Companies, Content Moderation Solution Provider, Content Moderation Outsourcing, Content Moderation Bpo, Content Moderator in Bpo, Content Moderation Solutions" />
     <meta name="robots" content="default,follow" />
     <meta name="distribution" content="Global" />
     <meta name="language" content="EN-US" />
@@ -25,8 +25,8 @@
     <meta property="og:title" content="Content Moderation Services" />
     <meta property="og:description" content="Companies such as Razor Infotech offer the best content moderation services through text, posts, media submissions & various files, attachments & links" />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">

@@ -24,8 +24,8 @@
     <meta property="og:title" content="IT Helpdesk Service |Technical Helpdesk" />
     <meta property="og:description" content="Razor Infotech provides expert IT helpdesk support to keep systems running smoothly and rates top help desk solutions for fast issue resolution and satisfied customers" />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">

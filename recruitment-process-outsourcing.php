@@ -10,7 +10,7 @@
     <!-- ------------------------- meta tags ----------------------------- -->
     <title>Recruitment Made Easy with Expert RPO Services</title>
     <meta name="description" content=" Razor Infotech's recruitment process outsourcing (RPO) solution takes your talent acquisition efforts to new heights & maximises your candidate experience">
-    <meta name="keywords" content="Recruitment Process Outsourcing, RPO Services, Recruitment Process Outsourcing Companies, 	RPO Hiring, Human Resources Department, BPO Recruitment, RPO Recruitment Process">    
+    <meta name="keywords" content="Recruitment Process Outsourcing, RPO Services, Recruitment Process Outsourcing Companies,RPO Hiring, Human Resources Department, BPO Recruitment, RPO Recruitment Process">    
     <meta name="robots" content="default,follow" />
     <meta name="distribution" content="Global" />
     <meta name="language" content="EN-US" />

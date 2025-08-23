@@ -10,7 +10,7 @@
     
     <title> Business Process Outsourcing Services| Razor Infotech</title>
     <meta name="description" content="Razor Infotech is the best Business Process Outsourcing Services provider company responsible for leading a business plan to improve services" />
-    <meta name="keywords" content="Backened Outsourcing Services , Backened Outsourcing Solutions" />
+    <!-- <meta name="keywords" content="Backened Outsourcing Services , Backened Outsourcing Solutions" /> -->
     <meta name="robots" content="default,follow" />
     <meta name="distribution" content="Global" />
     <meta name="language" content="EN-US" />
@@ -24,8 +24,8 @@
     <meta property="og:title" content="Business Process Outsourcing Services| Razor Infotech" />
     <meta property="og:description" content="Razor Infotech is the best Business Process Outsourcing Services provider company responsible for leading a business plan to improve services" />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">

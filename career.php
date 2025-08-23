@@ -24,8 +24,8 @@
     <meta property="og:title" content="Career & Job Opportunity" />
     <meta property="og:description" content="We provide jobs in Web Developer, Business Process Outsourcing, RPO, Web Designer and HR Consultancy." />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">

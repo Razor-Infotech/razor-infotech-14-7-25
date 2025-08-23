@@ -25,8 +25,8 @@
     <meta property="og:title" content="Inbound Call Center Solutions and Services" />
     <meta property="og:description" content="Razor Infotech provides Inbound call center services by giving solutions and information to the questions asked by customer" />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">

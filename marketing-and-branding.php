@@ -25,8 +25,8 @@
     <meta property="og:title" content="Marketing & Branding | Boost your business in the market" />
     <meta property="og:description" content="Boost your customer relationship with Razor Infotech Digital Marketing services & provide businesses of all sizes with an opportunity to market their brand 24/7" />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">

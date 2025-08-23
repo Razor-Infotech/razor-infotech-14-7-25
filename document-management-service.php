@@ -11,7 +11,7 @@
     
     <title> Document Management Services in Noida</title>
     <meta name="description" content="We provide tailored systems that support digitalization, document indexing, and cloud-based storage to improve collaboration and efficiency within your organization" />
-    <meta name="keywords" content="Document Management Services, Best Document Management Software in India, Document Management Solution, Document Management Systems, Document Management System Software, Best Document Management Software" />
+    <meta name="keywords" content="Document Management Services, Best Document Management Software in India, Document Management Solution, Document Management Systems, Document Management System Software, Best Document Management Software, Document Management Company	" />
     <meta name="robots" content="default,follow" />
     <meta name="distribution" content="Global" />
     <meta name="language" content="EN-US" />
@@ -25,8 +25,8 @@
     <meta property="og:title" content="Document Management Services in Noida" />
     <meta property="og:description" content="We provide tailored systems that support digitalization, document indexing, and cloud-based storage to improve collaboration and efficiency within your organization" />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">

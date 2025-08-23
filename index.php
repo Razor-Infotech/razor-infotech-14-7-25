@@ -39,7 +39,7 @@ $services = [
     
     <title> India's Best BPO Service Provider Company | Razor Infotech</title>
     <meta name="description" content="At Razor Infotech, we provide services like Business Process Outsourcing, RPO, IT Solutions, HR Outsourcing, & Digital Marketing For Better Client Experiences" />
-    <meta name="keywords" content="BPO Service Provider, Service Provider, BPO Service" />
+    <meta name="keywords" content="BPO Service, Inbound Service, Outbound Call, Omnichannel Services, back office services, business process outsourcing company, data entry service, data management service, content management services, bpo company, business process outsourcing, customer service bpo, bpo services company, best bpo company, best bpo, back office support, bpo process, top business process outsourcing companies, business process outsourcing provider, best bpo company, best bpo services, bpo advanced outsourcing, bpo services near me, best bpo near me, best bpo company for freshers, omnichannel customer service, business process outsourcing bpo services, omnichannel customer support solutions, voice process inbound, inbound outbound process, back office support companies, inbound call" />
     <meta name="robots" content="default,follow" />
     <meta name="distribution" content="Global" />
     <meta name="language" content="EN-US" />

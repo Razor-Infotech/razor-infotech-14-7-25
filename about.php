@@ -11,7 +11,7 @@
     
     <title> About Us | Razor Infotech</title>
     <meta name="description" content="Razor Infotech is your trusted partner for BPO, RPO, & IT services, providing expert solutions to help businesses and individuals achieve growth and success" />
-    <meta name="keywords" content="BPO Service Provider, Service Provider, BPO Service" />
+    <meta name="keywords" content="bpo company, call center company, BPO service in India, BPO outsourcing, and BPO call center, BPO service providers, BPO Services in India, top bpo in india,top bpo" />
     <meta name="robots" content="default,follow" />
     <meta name="distribution" content="Global" />
     <meta name="language" content="EN-US" />
@@ -25,8 +25,8 @@
     <meta property="og:title" content="About Us | Razor Infotech" />
     <meta property="og:description" content="Razor Infotech is your trusted partner for BPO, RPO, & IT services, providing expert solutions to help businesses and individuals achieve growth and success" />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">

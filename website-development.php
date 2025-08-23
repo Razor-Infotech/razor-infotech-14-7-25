@@ -22,7 +22,7 @@
     
     <title> Expert Website Development | Responsive Web Design</title>
     <meta name="description" content="Razor Infotech believes in providing customized support to meet the unique challenges through  BPO & RPO service provider companies in Noida." />
-    <meta name="keywords" content="Best BPO & RPO Services Provider company in Noida, Top BPO Company in India, CRM solutions, 24/7 sales and technical support services, Best Recruitment Agencies in India, business process outsourcing,  BPO company in Noida, Indian call center, Call Centre and Data management services, BPO convergence in India, Best BPO Services Provider Company, Best Staffing and recruitment Company in Noida" />
+    <meta name="keywords" content="Web Development Services, Responsive Design, Website Design & Development, Website Design and App Development, Website Development Services near me" />
     <meta name="robots" content="default,follow" />
     <meta name="distribution" content="Global" />
     <meta name="language" content="EN-US" />
@@ -36,8 +36,8 @@
     <meta property="og:title" content="Expert Website Development | Responsive Web Design" />
     <meta property="og:description" content="Razor Infotech believes in providing customized support to meet the unique challenges through  BPO & RPO service provider companies in Noida." />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">

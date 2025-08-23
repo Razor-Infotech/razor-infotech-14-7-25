@@ -10,7 +10,7 @@
     
     <title> Grow Your Business with Razor Infotech's IT Solutions</title>
     <meta name="description" content="Looking for IT solutions? Razor Infotech offers simple, effective, and secure tech services to improve your business" />
-    <!-- <meta name="keywords" content="Data Management System, Database Managed Services Provider, Data Management Services Company, Data Management Company in India, Database Management System Software, Customer Database Management, Call Centre and Data management services" /> -->
+    <meta name="keywords" content="software development, marketing & branding, web development services, software development, outsourcing company, website development company, web application development, web page development, website and app development company, software development company website, digital marketing and web development company" />
     <meta name="robots" content="default,follow" />
     <meta name="distribution" content="Global" />
     <meta name="language" content="EN-US" />
@@ -24,8 +24,8 @@
     <meta property="og:title" content="Grow Your Business with Razor Infotech’s IT Solutions" />
     <meta property="og:description" content="Looking for IT solutions? Razor Infotech offers simple, effective, and secure tech services to improve your business" />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">

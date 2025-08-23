@@ -11,7 +11,7 @@
     
     <title> Best Web Hosting Services In Delhi | Razor Infotech</title>
     <meta name="description" content="At Razor Infotech, we provide the best web hosting services for better experiences for both startups and businesses of all sizes." />
-    <meta name="keywords" content="Web hosting services, best web hosting services, best website hosting company, top web hosting company, web hosting services in india, Top 10 web hosting companies in India" />
+    <meta name="keywords" content="Web Hosting services, best web hosting services, best website hosting company, top web hosting company, web hosting services in india, Top 10 web hosting companies in India" />
     <meta name="robots" content="default,follow" />
     <meta name="distribution" content="Global" />
     <meta name="language" content="EN-US" />
@@ -25,8 +25,8 @@
     <meta property="og:title" content="Best Web Hosting Services In Delhi | Razor Infotech" />
     <meta property="og:description" content="At Razor Infotech, we provide the best web hosting services for better experiences for both startups and businesses of all sizes." />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">

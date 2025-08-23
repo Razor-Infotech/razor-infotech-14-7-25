@@ -11,7 +11,7 @@
     
     <title> Top Business Process Outsourcing (BPO) Company | Razor Infotech</title>
     <meta name="description" content="Upgrade your company's operations with our advanced Business Process Outsourcing services to increase productivity and reduce costs." />
-    <meta name="keywords" content="Backened Outsourcing Services , Backened Outsourcing Solutions" />
+    <meta name="keywords" content="BPO Service, Inbound Service, Outbound Call, Omnichannel Services, bpo company, customer service bpo, bpo services company, best bpo company, best bpo, bpo process, best bpo company, best bpo services, best bpo near me, best bpo company for freshers, omnichannel customer service, omnichannel customer support solutions, voice process inbound, inbound outbound process, inbound call" />
     <meta name="robots" content="default,follow" />
     <meta name="distribution" content="Global" />
     <meta name="language" content="EN-US" />
@@ -25,8 +25,8 @@
     <meta property="og:title" content="Top Business Process Outsourcing (BPO) Company | Razor Infotech" />
     <meta property="og:description" content="Upgrade your company's operations with our advanced Business Process Outsourcing services to increase productivity and reduce costs." />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">

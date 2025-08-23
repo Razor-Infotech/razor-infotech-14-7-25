@@ -11,7 +11,7 @@
     
     <title> Contact Us | Razor Infotech</title>
     <meta name="description" content="Our goal is to assist you in identifying the Razor Infotech solutions that will work best for your company. Contact us for sales and get in touch with us" />
-    <meta name="keywords" content="Backened Outsourcing Services , Backened Outsourcing Solutions" />
+    <meta name="keywords" content="Razor Infotech contact form, outsourcing company contact form , Razor Infotech contact address" />
     <meta name="robots" content="default,follow" />
     <meta name="distribution" content="Global" />
     <meta name="language" content="EN-US" />
@@ -25,8 +25,8 @@
     <meta property="og:title" content="Contact Us | Razor Infotech" />
     <meta property="og:description" content="Our goal is to assist you in identifying the Razor Infotech solutions that will work best for your company. Contact us for sales and get in touch with us" />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">

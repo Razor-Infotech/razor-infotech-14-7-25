@@ -11,7 +11,7 @@
     
     <title>Customer Support Services | Customer Care Support | Razor Infotech</title>
     <meta name="description" content="Razor Infotech : Your partner for 24/7 customer support services. Elevate customer experience with our efficient and cost-effective customer care solutions." />
-    <meta name="keywords" content="Customer Support Services, Outsourced Customer Support, Customer Support Outsourcing, Outsourced Customer Service Companies, Customer Care Support" />
+    <meta name="keywords" content="Customer Support Outsourcing Services, customer service outsourcing company, customer support and services, customer service outsourcing services, call centers customer service, customer service and bpo, inbound customer service, customer service bpo	" />
     <meta name="robots" content="default,follow" />
     <meta name="distribution" content="Global" />
     <meta name="language" content="EN-US" />

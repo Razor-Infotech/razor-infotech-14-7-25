@@ -25,8 +25,8 @@
     <meta property="og:title" content="Increase Sales & Customer Reach | Outbound Services Solution" />
     <meta property="og:description" content="Maximize sales and transform your customer reach with Razor Infotech's outbound services to increase lead generation, optimized for sales and business growth" />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">

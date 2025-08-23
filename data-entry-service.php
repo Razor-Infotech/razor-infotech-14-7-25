@@ -24,8 +24,8 @@
     <meta property="og:title" content="Data Entry Service | Save Time & Effort" />
     <meta property="og:description" content="Boost business productivity with expert data entry services and speed up your workflow, ensuring accuracy, security, and efficiency in handling critical data" />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
