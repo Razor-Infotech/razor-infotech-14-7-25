@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 $servername = "localhost";
 // $username   = "u965360670_Razorjob"; 
 // $password   = "Razor123@_"; 
@@ -6,6 +7,12 @@ $servername = "localhost";
 $username   = "Razorjob"; 
 $password   = "razor@2512"; 
 $dbname     = "jobs";
+=======
+$servername = "localhost"; // or 127.0.0.1 if Hostinger specifically says so
+$username   = "u965360670_Razorjob"; 
+$password   = "Razor123@_"; 
+$dbname     = "u965360670_jobs";
+>>>>>>> origin/main
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
@@ -16,5 +23,8 @@ if ($conn->connect_error) {
 }
 // echo "Connected successfully";
 ?>
+<<<<<<< HEAD
 
 .
+=======
+>>>>>>> origin/main
