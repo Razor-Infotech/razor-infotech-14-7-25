@@ -11,7 +11,7 @@
     
     <title> Top Business Process Outsourcing (BPO) Company | Razor Infotech</title>
     <meta name="description" content="Upgrade your company's operations with our advanced Business Process Outsourcing services to increase productivity and reduce costs." />
-    <meta name="keywords" content="BPO Service, Inbound Service, Outbound Call, Omnichannel Services, bpo company, customer service bpo, bpo services company, best bpo company, best bpo, bpo process, best bpo company, best bpo services, best bpo near me, best bpo company for freshers, omnichannel customer service, omnichannel customer support solutions, voice process inbound, inbound outbound process, inbound call" />
+    <meta name="keywords" content="Business Process Outsourcing Company, Business Process Outsourcing, BPO Service, Inbound Service, Outbound Call, Omnichannel Services, bpo company, customer service bpo, bpo services company, best bpo company, best bpo, bpo process, best bpo company, best bpo services, best bpo near me, best bpo company for freshers, omnichannel customer service, omnichannel customer support solutions, voice process inbound, inbound outbound process, inbound call" />
     <meta name="robots" content="default,follow" />
     <meta name="distribution" content="Global" />
     <meta name="language" content="EN-US" />
