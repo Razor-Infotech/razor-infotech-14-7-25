@@ -1493,7 +1493,7 @@
                                 </a>
                             </div>
                             <div class="date">
-                                <span>20</span>
+                                <span>18</span>
                                 <span>August</span>
                                 <span>2025</span>
                             </div>
