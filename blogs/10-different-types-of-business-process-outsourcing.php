@@ -383,7 +383,7 @@
                     </div>
 
                     <div class="services-details__content">
-                        <h1 style="display: none;">10 Different Types of Business Process Outsourcing</h1>
+                        <h1 style="display: none;">10Different Types of Business Process Outsourcing</h1>
                         <p>In today's business world, every company wants to focus on its core business activities. But at the same time, there are many such tasks that are important but take a lot of time and resources. Instead of doing them themselves, companies hand them over to an external expert, known as <strong><a href="../bpo-services">Business Process Outsourcing(BPO).</a></strong> These companies provide outsourced support to other companies, reducing costs, increasing efficiency, and maintaining quality. It is not limited to just customer support, but also includes back office services, IT help desk, inbound & outbound services, and various types of processes. </p>
                         <p>Now, let us know how many types of BPO there are and why each type is important.</p>
 
