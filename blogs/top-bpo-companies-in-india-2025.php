@@ -379,7 +379,7 @@
             <div class="row" data-sticky_parent>
                 <div class="col-xl-8" data-sticky_column>
                     <div class="media mb-40 mb-md-35 mb-sm-30 mb-xs-25">
-                        <img src=".././assets/img/10-different-types-of-business-process-outsourcing.png" alt="Top BPO Companies in India 2025 " loading="lazy">
+                        <img src=".././assets/img/top-bpo-companies-in-india-2025.png" alt="Top BPO Companies in India 2025 " loading="lazy">
                     </div>
 
                     <div class="services-details__content">
@@ -393,13 +393,6 @@
                             <h3>Top 30 Indian BPO outsourcing companies</h3>
                             <div class="table-responsive">
                                 <table class="table table-bordered text-center" style="border: 1px solid #8cc01d;">
-                                    <!-- <thead style="border-bottom: 1px solid #8cc01d;">
-                                        <tr>
-                                            <th scope="col" style="border-right: 1px solid #8cc01d;">Aspects</th>
-                                            <th scope="col" style="border-right: 1px solid #8cc01d;">BPOs</th>
-                                            <th scope="col">Call Centers</th>
-                                        </tr>
-                                    </thead> -->
                                     <tbody>
                                         <tr style="border-bottom: 1px solid #8cc01d;">
                                             <td style="border-right: 1px solid #8cc01d;">1. Conext Global Solutions</td>
@@ -469,50 +462,30 @@
                         <h5>Customer Service</h5>
                         <p>Customer service is the most important service of a BPO company. It provides businesses with fast and effective resolution of their customer queries and complaints. Customers are always satisfied through <strong><a href="../customer-support-services">customer support services</a></strong> and inbound service. Apart from this, customers can get seamless assistance across every platform through email support service and omnichannel support</p>
 
+                        <h5>Virtual Assistant Services</h5>
+                        <p>Virtual assistant services simplify the daily operations of businesses. Remote executives handle various tasks such as back office service, <strong><a href="../data-entry-service">data entry,</a></strong> research, and administrative work. This not only reduces costs but also allows employees to focus on strategic tasks.</p>
+
+                        <h5>Accounting and Financial Services</h5>
+                        <p>BPO companies manage financial data through IT solutions and expert staff. With the help of an IT help desk and financial analysis, companies can make their accounting, billing, and payment processes easier and faster.</p>
+
+                        <h5>Human Resource Management</h5>
+                        <p>Processes such as recruitment, training, and employee development are conducted under human resource management. BPO services enable the HR team to effectively handle employee monitoring, data management, and payroll processes.</p>
+
+                        <h5>Design and Creative</h5>
+                        <p>BPO companies help businesses with <strong><a href="../marketing-and-branding"></a></strong> and creative services. They create graphic design, branding, video content, and UI/UX design. Through this service, companies can improve their marketing and customer engagement.</p>
+
+                        <h5>Digital Marketing & Social Media Moderation</h5>
+                        <p>Digital marketing and social media moderation help businesses to have an online presence. By managing comments and messages on social media platforms, BPO services provide a positive experience to customers and ensure every query is answered through customer support services.</p>
+
+                        <h5>Why choose us, Razor Infotech </h5>
+                        <p>At <strong><a href="../">Razor Infotech,</a></strong> we ensure that every service your company offers is perfectly showcased. Be it BPO services, IT solutions, or customer support services, Razor Infotech delivers excellence in every field.</p>
+                        <p>Our team streamlines your operations through back office service and IT help desk, while inbound service and email support service enhance customer experience. Moreover, through omnichannel support, we ensure that your customers get a seamless experience across every platform.</p>
+                        <p>This process increases both Razor Infotech's credibility and visibility, and your services reach the right customers, thereby building trust and strong relationships.</p>
+                        <p>If you would like to learn more about outsourcing, be sure to check out our website and services. </p>
 
 
 
 
-                        <p>In today's business world, every company wants to focus on its core business activities. But at the same time, there are many such tasks that are important but take a lot of time and resources. Instead of doing them themselves, companies hand them over to an external expert, known as <strong><a href="../bpo-services">Business Process Outsourcing(BPO).</a></strong> These companies provide outsourced support to other companies, reducing costs, increasing efficiency, and maintaining quality. It is not limited to just customer support, but also includes back office services, IT help desk, inbound & outbound services, and various types of processes. </p>
-                        <p>Now, let us know how many types of BPO there are and why each type is important.</p>
-
-                        <h3>Types of BPO Based on Function</h3>
-                        <h5>Back Office BPO </h5>
-                        <p><strong><a href="../back-office-service">Back office services</a></strong> are the backbone of any organization. It includes services like data entry, payroll management, compliance, and record keeping. These are not directly related to customers, but without </p>
-
-                        <h5>Front Office BPO</h5>
-                        <p>The front office means direct contact with customers. It includes inbound service (taking customer queries), <strong><a href="../outbound-service">outbound service</a></strong> (calls, feedback, sales), and email/chat support. Good front office outsourcing helps in increasing customer satisfaction and brand value.</p>
-
-                        <h5>IT Outsourcing</h5>
-                        <p>Today, technology is an important part of every business. IT outsourcing includes services like software development, website management, <strong><a href="../it-help-desk">IT help desk,</a></strong> data storage, and cybersecurity. This allows companies to take advantage of modern tools without spending too much.</p>
-
-                        <h5>HR Outsourcing</h5>
-                        <p>Employees are the most important resource in any business. HR outsourcing includes recruitment, employee training, payroll processing, and performance management. This allows the HR team to focus on talent development instead of getting bogged down in paperwork.</p>
-
-                        <h5>Accounting & Finance Outsourcing</h5>
-                        <p>Financial accuracy is very important for any business. Accounting & finance outsourcing does work like bookkeeping, tax management, invoice processing, and audit support. These services not only save time but also reduce errors and compliance risk.</p>
-
-                        <h5>Knowledge Process Outsourcing (KPO)</h5>
-                        <p>KPO is a high-skill and specialized job. It includes activities like research, data analysis, business forecasting, and consultancy. KPO services help companies to make better strategies and take informed decisions.</p>
-
-                        <h5>Legal Process Outsourcing (LPO)</h5>
-                        <p>Legal work is very time-consuming and expensive. LPO includes legal research, contract drafting, compliance support, and services related to intellectual property rights. This helps companies save legal costs and also maintains quality.</p>
-
-                        <h3>Types of BPO Based on Location</h3>
-
-                        <h5>Offshore BPO</h5>
-                        <p>When a company outsources its work to another country, it is called offshore BPO. For example, a US company outsources <strong><a href="../customer-support-services">customer support services</a></strong> to India. The advantage is skilled manpower and low cost.</p>
-
-                        <h5>Nearshore BPO</h5>
-                        <p>Nearshore outsourcing means providing services in a nearby country. For example, US companies choose BPO in Mexico or Canada. This reduces cultural and time zone barriers.</p>
-
-                        <h5>Onshore/Domestic BPO</h5>
-                        <p>Onshore or domestic BPO means that the company outsources in its own country. This model is easy in language and legal compliance, and maintains local connections with customers.</p>
-
-                        <h4>Why Razor Infotech is the Right Choice</h4>
-                        <p>When it comes to choosing the right BPO partner, just looking at low costs is not enough. What is needed is a partner who provides quality services, timely delivery, and customer-focused solutions.</p>
-                        <p><strong><a href="../">Razor Infotech</a></strong> is a trusted name that provides end-to-end outsourcing solutions to companies, such as customer support services, back office services, IT help desk, inbound service, and outbound service.</p>
-                        <p>By working with us, businesses not only save costs but also achieve efficiency, scalability, and growth. This is the reason why today it is proving to be the right outsourcing partner for companies.</p>
 
                         <section class="container-fluid">
                             <div class="container">
@@ -522,14 +495,14 @@
                                         <h3 class="accordion-header" id="h-faq-1">
                                             <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                                 data-bs-target="#faq-1" aria-expanded="true" aria-controls="faq-1">
-                                                What is BPO, and why is it important?
+                                                What do BPO companies do in India?
                                             </button>
                                         </h3>
 
                                         <div id="faq-1" class="accordion-collapse collapse show" aria-labelledby="h-faq-1"
                                             data-bs-parent="#faq">
                                             <div class="accordion-body">
-                                                <p>BPO means Business Process Outsourcing, in which these companies hand over their non-core work to an expert company. This saves cost and increases efficiency.</p>
+                                                <p>BPO companies in India provide customer service, virtual assistant support, accounting, HR, design, digital marketing, social media moderation, back office service, and IT help desk, helping businesses focus on their main operations smoothly.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -538,14 +511,14 @@
                                         <h3 class="accordion-header" id="h-faq-2">
                                             <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                                 data-bs-target="#faq-2" aria-expanded="false" aria-controls="faq-2">
-                                                What is the difference between back office and front office BPO?
+                                                How do businesses benefit from BPO services?
                                             </button>
                                         </h3>
 
                                         <div id="faq-2" class="accordion-collapse collapse" aria-labelledby="h-faq-2"
                                             data-bs-parent="#faq">
                                             <div class="accordion-body">
-                                                <p>Back office works like data entry, payroll, and compliance, while the front office deals with direct client dealings like customer support, inbound service, and outbound service.</p>
+                                                <p>Time and money are saved. Customer service is better, and back office work helps employees focus on the main work.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -554,14 +527,14 @@
                                         <h3 class="accordion-header" id="h-faq-3">
                                             <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                                 data-bs-target="#faq-3" aria-expanded="false" aria-controls="faq-3">
-                                                What is included in IT outsourcing?
+                                                How is India's BPO industry, and what will happen in the future?
                                             </button>
                                         </h3>
 
                                         <div id="faq-3" class="accordion-collapse collapse" aria-labelledby="h-faq-3"
                                             data-bs-parent="#faq">
                                             <div class="accordion-body">
-                                                <p>IT outsourcing encompasses services such as software development, IT help desk support, website management, cybersecurity, and data storage.</p>
+                                                <p>India has been a major hub of BPO since 1980. Its size is estimated to reach 415.73 billion by 2025 and 491.15 billion by 2030. It also provides new skills and job opportunities for everyone.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -570,34 +543,14 @@
                                         <h3 class="accordion-header" id="h-faq-4">
                                             <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                                 data-bs-target="#faq-4" aria-expanded="false" aria-controls="faq-4">
-                                                What is the difference between Offshore, nearshore, and onshore BPO?
+                                                 Why are Indian BPO companies important for global businesses?
                                             </button>
                                         </h3>
 
                                         <div id="faq-4" class="accordion-collapse collapse" aria-labelledby="h-faq-4"
                                             data-bs-parent="#faq">
                                             <div class="accordion-body">
-                                                <ul>
-                                                    <li><strong>Offshore:</strong> Outsourcing in another country (eg, US to India).</li>
-                                                    <li><strong>Nearshore:</strong> Outsourcing in a nearby country (eg, US to Mexico).</li>
-                                                    <li><strong>Onshore:</strong> Outsourcing in your own country (domestic).</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="accordion-item">
-                                        <h3 class="accordion-header" id="h-faq-4">
-                                            <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                                data-bs-target="#faq-4" aria-expanded="false" aria-controls="faq-4">
-                                                Why should you choose Razor Infotech?
-                                            </button>
-                                        </h3>
-
-                                        <div id="faq-4" class="accordion-collapse collapse" aria-labelledby="h-faq-4"
-                                            data-bs-parent="#faq">
-                                            <div class="accordion-body">
-                                                <p>Razor Infotech provides end-to-end BPO solutions to businesses, including customer support services, back office services, IT help desks, inbound services, and outbound services, which are both cost-effective and of high quality.</p>
+                                                <p>With skilled employees, low costs, and strong IT support, Indian BPO companies provide fast and reliable support to companies around the world. </p>
                                             </div>
                                         </div>
                                     </div>

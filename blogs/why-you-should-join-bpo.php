@@ -379,7 +379,7 @@
             <div class="row" data-sticky_parent>
                 <div class="col-xl-8" data-sticky_column>
                     <div class="media mb-40 mb-md-35 mb-sm-30 mb-xs-25">
-                        <img src=".././assets/img/blog/blog-5.webp" alt="Why You Should Join BPO" loading="lazy">
+                        <img src=".././assets/img/why-should-join-bpo.png" alt="Why You Should Join BPO" loading="lazy">
                     </div>
 
                     <div class="services-details__content">
