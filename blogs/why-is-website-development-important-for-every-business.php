@@ -29,7 +29,7 @@
     <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
 
     <!-- ========== Favicon Icon ========== -->
-    <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
+    <link rel="icon" href=".././assets/img/razor-img/logo/razor-fevicon.webp">
     <link rel="canonical" href="https://razorinfotech.com/blogs/why-is-website-development-important-for-every-business">
     <!-- ===========  All Stylesheet ================= -->
 

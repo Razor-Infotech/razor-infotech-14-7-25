@@ -27,7 +27,7 @@
     <meta name="twitter:site" content="RazorInfotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
-    <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
+    <link rel="icon" href=".././assets/img/razor-img/logo/razor-fevicon.webp">
     <link rel="canonical" href="https://razorinfotech.com/blogs/difference-between-call-center-and-bpo">
     <!-- ===========  All Stylesheet ================= -->
     <link rel="stylesheet" href=".././assets/css/icons.css">

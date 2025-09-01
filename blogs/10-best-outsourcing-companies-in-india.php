@@ -25,11 +25,11 @@
     <meta property="og:title" content="10 Best Outsourcing Companies in India | Razor Infotech" />
     <meta property="og:description" content="Razor Infotech is a trusted outsourcing company started in 2018 from Noida. The company offers services like call center services, data entry, omnichannel customer support, and IT help desk " />
     <meta property="og:site_name" content="BPO Service Provider Company - Razor Infotech" />
-    <!-- <meta name="twitter:card" content="BPO Service Provider Company in India" /> -->
-    <!-- <meta name="twitter:site" content="eWeblink - BPO Service Provider Company in India" /> -->
+    <meta name="twitter:card" content="BPO Service Provider Company in India" />
+    <meta name="twitter:site" content="Razor Infotech - BPO Service Provider Company in India" />
 
     <!-- ========== Favicon Icon ========== -->
-    <link rel="icon" href="assets/img/razor-img/logo/razor-fevicon.webp">
+    <link rel="icon" href=".././assets/img/razor-img/logo/razor-fevicon.webp">
     <link rel="canonical" href="https://razorinfotech.com/blogs/10-best-outsourcing-companies-in-india">
     <!-- ===========  All Stylesheet ================= -->
 
