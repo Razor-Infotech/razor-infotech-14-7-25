@@ -1619,6 +1619,60 @@
                     </div>
                 </div>
 
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="blog-item mb-30">
+                        <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
+                            <div class="media overflow-hidden">
+                                <a href="./blogs/top-30-it-companies-in-india-2025">
+                                    <img src="./assets/img/blog/blog-10.webp" class="img-fluid" alt="Best Top 30 IT Companies in India 2025" width="434" height="300" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="date">
+                                <span>26</span>
+                                <span>August</span>
+                                <span>2025</span>
+                            </div>
+                        </div>
+
+                        <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
+                            <div class="post-author mb-2">
+                                <a href="./blogs/top-30-it-companies-in-india-2025">BPO Services </a>
+                            </div>
+                            <h4><a href="./blogs/top-30-it-companies-in-india-2025">Best Top 30 IT Companies in India 2025</a></h4>
+                            <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
+                                <a href="./blogs/top-30-it-companies-in-india-2025" class="theme-btn btn-border">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-md-6 col-12">
+                    <div class="blog-item mb-30">
+                        <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
+                            <div class="media overflow-hidden">
+                                <a href="./blogs/top-10-omnichannel-customer-service-providers">
+                                    <img src="./assets/img/blog/blog-7.webp" class="img-fluid" alt="Top 10 Omnichannel Customer Service Providers" width="434" height="300" loading="lazy">
+                                </a>
+                            </div>
+                            <div class="date">
+                                <span>28</span>
+                                <span>August</span>
+                                <span>2025</span>
+                            </div>
+                        </div>
+
+                        <div class="content pr-sm-25 pr-xs-15 pl-xs-15 pl-sm-25 pr-xs-15 pr-30 pb-30 pl-30">
+                            <div class="post-author mb-2">
+                                <a href="./blogs/top-10-omnichannel-customer-service-providers">BPO Services </a>
+                            </div>
+                            <h4><a href="./blogs/top-10-omnichannel-customer-service-providers">Top 10 Omnichannel Customer Service Providers</a></h4>
+                            <div class="btn-link-share mt-xs-10 mt-sm-10 mt-15">
+                                <a href="./blogs/top-10-omnichannel-customer-service-providers" class="theme-btn btn-border">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </section>
