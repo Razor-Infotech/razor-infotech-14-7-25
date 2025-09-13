@@ -1646,7 +1646,7 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-md-6 col-12">
+                <!-- <div class="col-xl-4 col-md-6 col-12">
                     <div class="blog-item mb-30">
                         <div class="blog-featured-thumb mb-xs-30 mb-sm-30 mb-md-35 mb-lg-40 mb-50">
                             <div class="media overflow-hidden">
@@ -1671,7 +1671,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
             </div>
         </div>
