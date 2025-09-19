@@ -394,7 +394,7 @@
                         <p>In the IT sector, BPO business plays a vital role. From technical troubleshooting to <strong><a href="../data-entry-service">data entry</a></strong> and managing backend operations, outsourcing helps IT firms save time and resources.</p>
                         <p>The BPO provider provides software maintenance, application monitoring, and a 24/7 customer support desk. The company believes in developing and upgrading technology that supports high quality development and technology. Which ensures continuous development.</p>
 
-                        <p><strong>Also Read: <a href=".//top-30-it-companies-in-india-2025">Best Top 30 IT Companies in India 2025</a></strong></p>
+                        <p><strong>Also Read: <a href="./top-30-it-companies-in-india-2025">Best Top 30 IT Companies in India 2025</a></strong></p>
 
                         <h3>Does BPO Come Under the IT Sector?</h3>
                         <p>The key point is that BPO services are often considered a separate industry, but they operate in tandem with IT. BPO firms use the best software tools, cloud platforms, and AI-powered technologies to provide high-quality services.</p>
