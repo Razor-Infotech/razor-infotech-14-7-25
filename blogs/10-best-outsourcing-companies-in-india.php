@@ -387,7 +387,7 @@
                         <p>Nowadays, big companies give a lot of their work to other companies instead of doing it themselves - this is called outsourcing. This saves them time and also reduces expenses. India is number 1 in this work worldwide. People here are hardworking, do good work at a low price, and also have a good understanding of technology. </p>
                         <p>If you want to give some work for your business outside, then here is the list of the <strong>Top 10 best outsourcing companies in India.</strong></p>
 
-                        <h5>1. Razor Infortech </h5>
+                        <h5>1. Razor Infotech </h5>
                         <p>Razor Infotech is a trusted outsourcing company started in 2018 from Noida. The company offers services like call center services, data entry, <strong><a href="../omnichannel-support">omnichannel customer support</a></strong>, and IT help desk. Razor Infotech is known for providing good service at low cost. It understands the needs of every client and provides them with custom solutions. Timely delivery, clean work, and client satisfaction are its hallmarks.</p>
                         <p><strong>Headquarters - Sector 65, Noida, Uttar Pradesh, India</strong></p>
 
